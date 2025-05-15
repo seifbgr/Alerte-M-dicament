@@ -1,4 +1,19 @@
 # DB-DDI : Génération d’une base de données synthétique sur les interactions médicamenteuses
+![Illustration du projet](médicaments.jpg)
+
+## 📚 Table des matières
+
+- [📝 Description du projet](#-description-du-projet)
+- [🎯 Objectifs du projet](#-objectifs-du-projet)
+- [📂 Sources de données](#-sources-de-données)
+- [🛠️ Technologies utilisées](#️-technologies-utilisées)
+- [🏗️ Structure du projet](#️-structure-du-projet)
+- [⚙️ Processus ETL](#️-processus-etl)
+- [🚀 Lancement du projet](#-lancement-du-projet)
+- [📊 Résultats](#-résultats)
+- [✅ Conclusion et perspectives](#-conclusion-et-perspectives)
+- [👤 Auteur](#-auteur)
+
 
 ## 📝 Description du projet
 
@@ -9,3 +24,5 @@ Nous exploitons des jeux de données accessibles publiquement, notamment via **K
 Le travail repose initialement sur la **base de données MIMIC-III Clinical Database Demo (version 1.4)**, qui contient des données relatives à 94 patients. Cette base réduite sert de point de départ pour développer une méthodologie généralisable à l’ensemble de la base MIMIC-III complète. L’objectif est de concevoir un **modèle d’apprentissage automatique** capable de détecter la présence d’interactions et de prédire leur **niveau de gravité** au sein de chaque ordonnance.
 
 À plus long terme, cette base synthétique pourra servir de support au développement d’un **système intelligent d’alerte et de triage**, capable de résumer et de hiérarchiser les risques liés aux interactions médicamenteuses, dans une perspective d’aide à la décision clinique.
+
+## 🎯 Objectifs du projet
