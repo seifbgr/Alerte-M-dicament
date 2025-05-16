@@ -129,6 +129,88 @@ Le projet suit une démarche de type **ETL** (Extract – Transform – Load) po
   - `ordonnance_id`, `hadm_id`, `date`, `drug_1`, `drug_2`, `interaction_type`, `description`, `level`
 - Export au format `.csv` pour permettre une analyse ultérieure ou un entraînement de modèle.
 
+## Lancement du projet
+
+Ce projet est basé sur Python et Jupyter Notebook. Suivez les étapes ci-dessous pour installer l’environnement et exécuter les notebooks.
+
+### Prérequis
+
+Avant de commencer, vous devez avoir installé :
+
+* Python 3.10 ou plus récent
+* pip (gestionnaire de paquets Python)
+* Jupyter Notebook ou JupyterLab
+
+### Étapes d’exécution
+
+#### 1. Cloner le dépôt
+
+```
+git clone https://github.com/ton-utilisateur/ton-depot.git
+cd ton-depot
+```
+
+#### 2. Créer un environnement virtuel
+
+```
+python -m venv venv
+source venv/bin/activate  # Sous Windows : venv\Scripts\activate
+```
+
+#### 3. Installer les dépendances
+
+```
+pip install -r requirements.txt
+```
+
+#### 4. Lancer Jupyter Notebook
+
+```
+jupyter notebook
+```
+
+#### 5. Exécuter le notebook principal du projet :
+
+`project_db_ddi.ipynb` : Ce notebook regroupe l'ensemble des étapes du projet, de l'extraction des prescriptions à la génération du jeu de données final enrichi avec descriptions et niveaux de sévérité.
+
+## Résultats
+
+À l’issue de l’exécution du projet, un tableau final a été généré, contenant des interactions médicamenteuses extraites et enrichies. Voici les résultats clés :
+
+-  **974 interactions détectées**
+-  Issues de **94 patients**
+-  Correspondant à **124 hospitalisations distinctes**
+-  **617 interactions n’ont pas de niveau de sévérité trouvé** dans la base de données DDInter
+
+### Exemple de structure de données :
+
+| ordonnance_id | hadm_id | ordonnance_date | drug1_name    | drug2_name  | interaction_type                   | description                                              | level    |
+|---------------|---------|------------------|---------------|-------------|------------------------------------|----------------------------------------------------------|----------|
+| ORD00000      | 100375  | 2129-05-02       | acetaminophen | atorvastatin | risk or severity of adverse effects | The risk or severity of adverse effects can be...         | NaN      |
+| ORD00006      | 100969  | 2142-11-28       | lorazepam     | midazolam    | risk or severity of adverse effects | The risk or severity of adverse effects can be...         | NaN      |
+| ORD00018      | 101361  | 2145-12-15       | pantoprazole  | tacrolimus   | serum concentration                 | The serum concentration of Tacrolimus can be increased...| Moderate |
+| ORD00019      | 102203  | 2127-07-23       | clotrimazole  | diazepam     | metabolism                          | The metabolism of Diazepam can be decreased when...       | Moderate |
+| ORD00019      | 102203  | 2127-07-23       | clotrimazole  | ondansetron  | metabolism                          | The metabolism of Ondansetron can be decreased...         | Unknown  |
+
+Ce tableau constitue la base pour le développement d’un futur **modèle de machine learning** visant à identifier et prioriser les risques médicamenteux.
+
+## Conclusion et perspectives
+
+La base de données générée dans ce projet est issue d’un environnement de **démonstration** basé sur la version réduite de **MIMIC-III DEMO**, contenant uniquement les données de **94 patients**. Elle constitue une preuve de concept permettant de valider le pipeline de traitement, d’extraction et d’enrichissement des interactions médicamenteuses.
+
+L’objectif final est d’appliquer ce même traitement sur la **base complète MIMIC-III**, afin de générer une **base de données à grande échelle** (big data) contenant toutes les colonnes nécessaires : type d’interaction, description textuelle, niveau de sévérité.
+
+Cette base enrichie sera utilisée pour développer un **modèle prédictif** capable d’identifier automatiquement les interactions présentes dans une ordonnance. L’ambition est de proposer un **système d’aide à la prescription**, afin de prévenir les risques d’interactions dangereuses et contribuer à **améliorer la sécurité des patients**.
+
+## Auteur
+
+Ce projet a été réalisé par **Seif Bouguerra**, dans le cadre d’un **stage au laboratoire ICube**, durant son Master en Intelligence en Données de Santé.
+
+Il a été encadré par le **Professeur Julien Godet**.
+
+
+
+
 
 
 
