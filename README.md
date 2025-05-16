@@ -7,8 +7,7 @@
 2. [Objectifs du projet](#objectifs-du-projet)
 3. [Sources de données](#sources-de-données)
 4. [Technologies utilisées](#technologies-utilisées)
-5. [Structure du projet](#structure-du-projet)
-6. [Processus ETL](#processus-etl)
+5. [Processus ETL](#processus-etl)
 7. [Lancement du projet](#lancement-du-projet)
 8. [Résultats](#résultats)
 9. [Conclusion et perspectives](#conclusion-et-perspectives)
@@ -92,12 +91,45 @@ Le projet repose sur les outils et technologies suivants :
 
 ### Bibliothèques Python utilisées
 
-- pandas : manipulation nettoyage des données tabulaires (DataFrames)
+- pandas : manipulation et nettoyage des données tabulaires (DataFrames)
 - numpy : calculs numériques et opérations vectorielles
 - itertools : création de combinaisons et permutations (traitement d’interactions)
 - lxml.etree : parsing et traitement de fichiers XML (ex : DrugBank)
 - pathlib : gestion des chemins de fichiers de manière portable
 - glob : recherche de fichiers par motifs dans l’arborescence
+
+## Processus ETL
+
+Le projet suit une démarche de type **ETL** (Extract – Transform – Load) pour construire une base de données synthétique d’interactions médicamenteuses à partir de données ouvertes.
+
+### 1. Extraction (Extract)
+
+- Chargement du fichier `PRESCRIPTIONS.csv` issu de la base MIMIC-III (version demo).
+- Extraction des colonnes nécessaires : `hadm_id`, `startdate`, `drug_name_poe`.
+- Téléchargement des bases externes :
+  - DDI (Mendeley)
+  - DrugBank (Kaggle)
+  - DDInter (classification de la sévérité)
+
+### 2. Transformation (Transform)
+
+- **Regroupement des prescriptions par `hadm_id` et `startdate`** pour reconstituer des **ordonnances** complètes par patient et par date.
+- Génération de toutes les combinaisons de médicaments (paires) dans chaque ordonnance à l’aide de `itertools`.
+- Recherche des interactions correspondantes dans la base DDI.
+- **Nettoyage des données** :
+  - Suppression des doublons de médicaments et d'interactions.
+  - Normalisation des noms (minuscule, retrait des caractères spéciaux, etc.).
+- **Enrichissement** des paires détectées avec :
+  - Description textuelle depuis DrugBank.
+  - Niveau de sévérité depuis DDInter.
+
+### 3. Chargement (Load)
+
+- Génération d’un tableau final contenant :
+  - `ordonnance_id`, `hadm_id`, `date`, `drug_1`, `drug_2`, `interaction_type`, `description`, `level`
+- Export au format `.csv` pour permettre une analyse ultérieure ou un entraînement de modèle.
+
+
 
 
 
