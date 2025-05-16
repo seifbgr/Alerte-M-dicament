@@ -26,3 +26,13 @@ Le travail repose initialement sur la **base de données MIMIC-III Clinical Data
 À plus long terme, cette base synthétique pourra servir de support au développement d’un **système intelligent d’alerte et de triage**, capable de résumer et de hiérarchiser les risques liés aux interactions médicamenteuses, dans une perspective d’aide à la décision clinique.
 
 ## 🎯 Objectifs du projet
+
+L’objectif principal est de développer une **base de données synthétique d’interactions médicamenteuses** à partir de données ouvertes, afin de permettre par la suite la mise en place d’un système intelligent d’alerte et de triage. Plus précisément, le projet vise à :
+
+- 🔄 **Reconstituer des ordonnances médicales réalistes** à partir de la base MIMIC-III (version demo) ;
+- 🧩 **Identifier les interactions médicamenteuses** présentes dans ces ordonnances à l’aide de bases de données DDI ;
+- 🗒️ **Associer à chaque interaction des informations textuelles et un niveau de sévérité** ;
+
+
+Ce travail constitue une **étape préparatoire** indispensable à l’entraînement d’un modèle prédictif performant, dans un contexte médical critique.
+
