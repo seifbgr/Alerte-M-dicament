@@ -52,24 +52,53 @@ Pour atteindre cet objectif, le travail s'articule autour des étapes suivantes 
 Le projet s'appuie sur plusieurs bases de données ouvertes et fiables issues du domaine médical et pharmaceutique :
 
 1. **MIMIC-III Clinical Database Demo (v1.4)**  
-   - Contient des données de prescriptions hospitalières réelles.  
+   - Contient les données de prescriptions hospitalières réelles de 94 patients.  
    - Utilisée pour reconstruire des ordonnances réalistes.  
    - Lien : [https://physionet.org/content/mimiciii-demo/1.4/](https://physionet.org/content/mimiciii-demo/1.4/)
+   - Les colonnes suivantes sont utilisées pour reconstruire les ordonnances à partir du fichier `PRESCRIPTIONS.csv` de la base MIMIC-III :
 
-2. **Mendeley DDI Dataset**  
-   - Fournit des paires de médicaments connus pour interagir.  
-   - Utilisée pour identifier les interactions dans les ordonnances.  
+| Colonne       | Description                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| `hadm_id`     | Identifiant unique de l'hospitalisation. Il permet de regrouper les prescriptions par passage hospitalier. |
+| `startdate`   | Date de début de la prescription. Elle est utilisée pour reconstituer la chronologie de l'ordonnance.         |
+| `drug_name_poe` | Nom du médicament prescrit tel qu'enregistré dans le système de prescription (POE = Physician Order Entry). |
+
+2. **Mendeley DDI Dataset**
+   - Fournit des paires de médicaments connus pour interagir.
+   - Utilisée pour identifier les interactions dans les ordonnances.
+   - Ajouter le type d'interaction à la base de donnée. 
    - Lien : [https://data.mendeley.com/datasets/md5czfsfnd/1](https://data.mendeley.com/datasets/md5czfsfnd/1)
 
-3. **DrugBank (via Kaggle)**  
-   - Contient des descriptions textuelles détaillées des interactions médicamenteuses.  
-   - Utilisée pour enrichir chaque interaction avec un texte explicatif.  
+4. **DrugBank (via Kaggle)**  
+   - Contient des descriptions textuelles détaillées des interactions médicamenteuses.
+    - faire une joiture avec la base de données principale MIMIC  
+   - Utilisée pour enrichir chaque interaction avec un texte explicatif (ajouter la description pour chaque interaction).  
    - Lien : [https://www.kaggle.com/datasets/sergeguillemart/drugbank](https://www.kaggle.com/datasets/sergeguillemart/drugbank)
 
-4. **DDInter Database**  
-   - Donne une classification de la sévérité des interactions (`mineure`, `modérée`, `sévère`, etc.).  
+5. **DDInter Database**  
+   - Donne une classification de la sévérité des interactions (`mineure`, `modérée`, `sévère`, etc.).
+   - faire une joiture avec la base de données principale MIMIC 
    - Utilisée pour attribuer un niveau de gravité à chaque interaction.  
    - Lien : [https://ddinter.scbdd.com/download/](https://ddinter.scbdd.com/download/)
+
+## Technologies utilisées
+
+Le projet repose sur les outils et technologies suivants :
+
+### Langage & environnement
+
+- Python 3.10+
+- Jupyter Notebook
+
+### Bibliothèques Python utilisées
+
+- pandas : manipulation nettoyage des données tabulaires (DataFrames)
+- numpy : calculs numériques et opérations vectorielles
+- itertools : création de combinaisons et permutations (traitement d’interactions)
+- lxml.etree : parsing et traitement de fichiers XML (ex : DrugBank)
+- pathlib : gestion des chemins de fichiers de manière portable
+- glob : recherche de fichiers par motifs dans l’arborescence
+
 
 
 
