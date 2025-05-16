@@ -1,0 +1,979 @@
+ordonnance_id,hadm_id,ordonnance_date,drug1_name,drug2_name,interaction_type,description,Level
+ORD00000,100375,2129-05-02,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00006,100969,2142-11-28,lorazepam,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Midazolam.,
+ORD00018,101361,2145-12-15,pantoprazole,tacrolimus,serum concentration,The serum concentration of Tacrolimus can be increased when it is combined with Pantoprazole.,Moderate
+ORD00019,102203,2127-07-23,clotrimazole,diazepam,metabolism,The metabolism of Diazepam can be decreased when combined with Clotrimazole.,Moderate
+ORD00019,102203,2127-07-23,clotrimazole,ondansetron,metabolism,The metabolism of Ondansetron can be decreased when combined with Clotrimazole.,Unknown
+ORD00019,102203,2127-07-23,clotrimazole,ranitidine,metabolism,The metabolism of Ranitidine can be decreased when combined with Clotrimazole.,Unknown
+ORD00019,102203,2127-07-23,clotrimazole,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Clotrimazole.,
+ORD00019,102203,2127-07-23,diazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diazepam is combined with Ondansetron.,Unknown
+ORD00019,102203,2127-07-23,ranitidine,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Ranitidine.,
+ORD00026,102203,2127-07-30,clotrimazole,ondansetron,metabolism,The metabolism of Ondansetron can be decreased when combined with Clotrimazole.,Unknown
+ORD00026,102203,2127-07-30,clotrimazole,ranitidine,metabolism,The metabolism of Ranitidine can be decreased when combined with Clotrimazole.,Unknown
+ORD00026,102203,2127-07-30,clotrimazole,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Clotrimazole.,
+ORD00026,102203,2127-07-30,ranitidine,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Ranitidine.,
+ORD00031,103379,2170-12-15,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00031,103379,2170-12-15,lorazepam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Prochlorperazine.,
+ORD00040,103770,2195-05-17,acetaminophen,sertraline,metabolism,The metabolism of Acetaminophen can be decreased when combined with Sertraline.,
+ORD00047,104697,2159-11-17,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00047,104697,2159-11-17,haloperidol,ondansetron,QTc-prolonging activities,Haloperidol may increase the QTc-prolonging activities of Ondansetron.,Major
+ORD00048,104697,2159-11-18,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00059,109698,2193-10-15,acetaminophen,felodipine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Felodipine.,
+ORD00059,109698,2193-10-15,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00059,109698,2193-10-15,ondansetron,promethazine,QTc-prolonging activities,Promethazine may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00059,109698,2193-10-15,valsartan,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Valsartan.,Unknown
+ORD00060,109698,2193-10-16,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00060,109698,2193-10-16,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00060,109698,2193-10-16,haloperidol,propranolol,metabolism,The metabolism of Propranolol can be decreased when combined with Haloperidol.,
+ORD00067,110244,2129-03-06,acetaminophen,indomethacin,risk or severity of adverse effects,,
+ORD00068,110958,2175-10-02,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00068,110958,2175-10-02,clopidogrel,propofol,metabolism,The metabolism of Propofol can be decreased when combined with Clopidogrel.,Unknown
+ORD00069,110958,2175-10-03,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00069,110958,2175-10-03,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00069,110958,2175-10-03,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00072,111115,2144-02-09,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00072,111115,2144-02-09,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00072,111115,2144-02-09,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00081,111115,2144-02-18,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00081,111115,2144-02-18,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00090,112662,2128-11-09,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00090,112662,2128-11-09,midazolam,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Midazolam.,
+ORD00093,114648,2121-12-09,acetaminophen,methylprednisolone,risk or severity of adverse effects,,Unknown
+ORD00093,114648,2121-12-09,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00097,114867,2165-12-19,furosemide,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Hydralazine.,
+ORD00097,114867,2165-12-19,furosemide,tamsulosin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tamsulosin is combined with Furosemide.,
+ORD00097,114867,2165-12-19,spironolactone,tamsulosin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tamsulosin is combined with Spironolactone.,
+ORD00098,114867,2165-12-20,azithromycin,levofloxacin,QTc-prolonging activities,Azithromycin may increase the QTc-prolonging activities of Levofloxacin.,Moderate
+ORD00099,114867,2165-12-21,azithromycin,haloperidol,QTc-prolonging activities,Azithromycin may increase the QTc-prolonging activities of Haloperidol.,
+ORD00099,114867,2165-12-21,azithromycin,olanzapine,metabolism,Olanzapine may increase the QTc-prolonging activities of Azithromycin.,
+ORD00103,116518,2144-10-15,lorazepam,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Propofol.,
+ORD00104,116518,2144-10-16,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD00104,116518,2144-10-16,diltiazem,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,The risk or severity of adverse effects can be increased when Diltiazem is combined with Magnesium Sulfate.,
+ORD00106,116518,2144-10-18,diltiazem,labetalol,hypotensive activities,The risk or severity of adverse effects can be increased when Diltiazem is combined with Labetalol.,
+ORD00106,116518,2144-10-18,labetalol,metoclopramide,bradycardic activities,Metoclopramide may increase the bradycardic activities of Labetalol.,Unknown
+ORD00107,116518,2144-10-19,digoxin,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Digoxin.,
+ORD00107,116518,2144-10-19,digoxin,prednisone,cardiotoxic activities,Digoxin may decrease the cardiotoxic activities of Prednisone.,Moderate
+ORD00107,116518,2144-10-19,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD00107,116518,2144-10-19,diltiazem,prednisone,metabolism,The metabolism of Prednisone can be decreased when combined with Diltiazem.,Moderate
+ORD00108,116518,2144-10-20,digoxin,hydrochlorothiazide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Digoxin.,
+ORD00108,116518,2144-10-20,digoxin,labetalol,bradycardic activities,Digoxin may increase the bradycardic activities of Labetalol.,
+ORD00112,117105,2127-10-07,clotrimazole,propofol,metabolism,The metabolism of Propofol can be decreased when combined with Clotrimazole.,Unknown
+ORD00112,117105,2127-10-07,clotrimazole,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Clotrimazole.,
+ORD00112,117105,2127-10-07,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00127,118192,2145-09-06,haloperidol,levofloxacin,QTc-prolonging activities,Haloperidol may increase the QTc-prolonging activities of Levofloxacin.,Major
+ORD00127,118192,2145-09-06,lorazepam,ziprasidone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ziprasidone.,
+ORD00127,118192,2145-09-06,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00127,118192,2145-09-06,pantoprazole,ziprasidone,metabolism,The metabolism of Pantoprazole can be decreased when combined with Ziprasidone.,Unknown
+ORD00127,118192,2145-09-06,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00130,118192,2145-09-09,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00136,121860,2179-04-17,acetaminophen,amiodarone,metabolism,The metabolism of Acetaminophen can be decreased when combined with Amiodarone.,
+ORD00136,121860,2179-04-17,acetaminophen,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Acetaminophen.,Unknown
+ORD00148,122928,2180-03-16,cabergoline,olanzapine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Cabergoline is combined with Olanzapine.,
+ORD00148,122928,2180-03-16,cabergoline,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Cabergoline is combined with Ranitidine.,Unknown
+ORD00148,122928,2180-03-16,pantoprazole,ranitidine,metabolism,The metabolism of Ranitidine can be decreased when combined with Pantoprazole.,Unknown
+ORD00153,124073,2152-10-03,acetaminophen,dexamethasone,risk or severity of adverse effects,,Unknown
+ORD00153,124073,2152-10-03,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00153,124073,2152-10-03,haloperidol,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Haloperidol.,
+ORD00154,124073,2152-10-04,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00155,124073,2152-10-05,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00157,124073,2152-10-07,pantoprazole,phenytoin,metabolism,The metabolism of Pantoprazole can be increased when combined with Phenytoin.,Unknown
+ORD00161,125013,2201-09-28,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00161,125013,2201-09-28,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00161,125013,2201-09-28,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00161,125013,2201-09-28,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00161,125013,2201-09-28,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00171,125449,2198-10-29,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00171,125449,2198-10-29,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00171,125449,2198-10-29,baclofen,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Baclofen.,
+ORD00171,125449,2198-10-29,clopidogrel,gabapentin,therapeutic efficacy,The therapeutic efficacy of Clopidogrel can be decreased when used in combination with Gabapentin.,Unknown
+ORD00171,125449,2198-10-29,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00171,125449,2198-10-29,duloxetine,metoclopramide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoclopramide is combined with Duloxetine.,Moderate
+ORD00171,125449,2198-10-29,duloxetine,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Duloxetine.,
+ORD00171,125449,2198-10-29,duloxetine,simvastatin,metabolism,The metabolism of Simvastatin can be decreased when combined with Duloxetine.,Unknown
+ORD00174,125449,2198-11-01,mirtazapine,ondansetron,central nervous system depressant (CNS depressant) activities,Ondansetron may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,Major
+ORD00188,126179,2130-02-04,haloperidol,propofol,metabolism,Propofol may increase the QTc-prolonging activities of Haloperidol.,
+ORD00190,126179,2130-02-06,cyproheptadine,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Cyproheptadine.,
+ORD00190,126179,2130-02-06,potassium chloride,tolterodine,ulcerogenic activities,Tolterodine may increase the ulcerogenic activities of Potassium Chloride.,Major
+ORD00191,126179,2130-02-07,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00193,126179,2130-02-09,potassium chloride,tolterodine,ulcerogenic activities,Tolterodine may increase the ulcerogenic activities of Potassium Chloride.,Major
+ORD00194,126949,2129-11-24,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00194,126949,2129-11-24,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00195,126949,2129-11-25,hydromorphone,oxybutynin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Oxybutynin is combined with Hydromorphone.,
+ORD00195,126949,2129-11-25,hydromorphone,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Prochlorperazine.,
+ORD00195,126949,2129-11-25,hydromorphone,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Propofol.,
+ORD00195,126949,2129-11-25,prochlorperazine,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Propofol.,
+ORD00196,126949,2129-11-26,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00205,128293,2135-10-25,amlodipine,tamsulosin,risk or severity of hypotension,Tamsulosin may increase the hypotensive activities of Amlodipine.,
+ORD00208,129273,2155-03-08,furosemide,quinapril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Quinapril.,
+ORD00208,129273,2155-03-08,omeprazole,ondansetron,metabolism,The metabolism of Ondansetron can be decreased when combined with Omeprazole.,Unknown
+ORD00208,129273,2155-03-08,potassium chloride,quinapril,hyperkalemic activities,,Major
+ORD00210,129273,2155-03-10,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00210,129273,2155-03-10,haloperidol,propofol,metabolism,Propofol may increase the QTc-prolonging activities of Haloperidol.,
+ORD00210,129273,2155-03-10,lorazepam,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Propofol.,
+ORD00212,130681,2200-10-30,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00212,130681,2200-10-30,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00212,130681,2200-10-30,baclofen,citalopram,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Citalopram.,
+ORD00212,130681,2200-10-30,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00212,130681,2200-10-30,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00212,130681,2200-10-30,baclofen,trazodone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Trazodone is combined with Baclofen.,
+ORD00212,130681,2200-10-30,citalopram,duloxetine,serotonergic activities,The risk or severity of adverse effects can be increased when Citalopram is combined with Duloxetine.,
+ORD00212,130681,2200-10-30,citalopram,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Citalopram.,
+ORD00212,130681,2200-10-30,citalopram,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Citalopram.,Moderate
+ORD00212,130681,2200-10-30,citalopram,trazodone,serotonergic activities,Trazodone may increase the QTc-prolonging activities of Citalopram.,
+ORD00212,130681,2200-10-30,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00212,130681,2200-10-30,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00212,130681,2200-10-30,duloxetine,trazodone,serotonergic activities,The risk or severity of adverse effects can be increased when Trazodone is combined with Duloxetine.,
+ORD00215,130681,2200-11-02,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00217,130870,2198-06-29,magnesium sulfate,ondansetron,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Ondansetron.,
+ORD00218,130870,2198-06-30,amiodarone,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amiodarone is combined with Hydralazine.,
+ORD00218,130870,2198-06-30,furosemide,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Hydralazine.,
+ORD00218,130870,2198-06-30,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00219,130870,2198-07-01,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD00219,130870,2198-07-01,diltiazem,hydralazine,hypotensive activities,The risk or severity of adverse effects can be increased when Diltiazem is combined with Hydralazine.,
+ORD00219,130870,2198-07-01,diltiazem,labetalol,hypotensive activities,The risk or severity of adverse effects can be increased when Diltiazem is combined with Labetalol.,
+ORD00219,130870,2198-07-01,diltiazem,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,The risk or severity of adverse effects can be increased when Diltiazem is combined with Magnesium Sulfate.,
+ORD00219,130870,2198-07-01,diltiazem,ondansetron,metabolism,The metabolism of Ondansetron can be decreased when combined with Diltiazem.,Unknown
+ORD00219,130870,2198-07-01,furosemide,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Hydralazine.,
+ORD00219,130870,2198-07-01,labetalol,magnesium sulfate,risk or severity of hypotension,Labetalol may increase the hypotensive activities of Magnesium Sulfate.,
+ORD00219,130870,2198-07-01,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00219,130870,2198-07-01,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00219,130870,2198-07-01,magnesium sulfate,ondansetron,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Ondansetron.,
+ORD00226,130870,2198-07-08,clonazepam,sertraline,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Clonazepam is combined with Sertraline.,
+ORD00233,132349,2139-09-22,acetaminophen,isoniazid,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Isoniazid is combined with Acetaminophen.,
+ORD00233,132349,2139-09-22,acetaminophen,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Acetaminophen.,Unknown
+ORD00233,132349,2139-09-22,metoprolol,simvastatin,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Simvastatin.,Unknown
+ORD00245,134993,2192-11-20,fluconazole,pantoprazole,serum concentration,The serum concentration of Pantoprazole can be increased when it is combined with Fluconazole.,Moderate
+ORD00245,134993,2192-11-20,fluconazole,prednisone,serum concentration,The serum concentration of Prednisone can be increased when it is combined with Fluconazole.,Moderate
+ORD00259,134993,2192-12-04,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00261,134993,2192-12-06,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00266,138132,2145-07-07,digoxin,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Digoxin.,
+ORD00266,138132,2145-07-07,digoxin,lisinopril,serum concentration,The serum concentration of Digoxin can be increased when it is combined with Lisinopril.,
+ORD00266,138132,2145-07-07,digoxin,prednisone,cardiotoxic activities,Digoxin may decrease the cardiotoxic activities of Prednisone.,Moderate
+ORD00266,138132,2145-07-07,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD00266,138132,2145-07-07,diltiazem,lisinopril,metabolism,The metabolism of Diltiazem can be decreased when combined with Lisinopril.,
+ORD00266,138132,2145-07-07,diltiazem,prednisone,metabolism,The metabolism of Prednisone can be decreased when combined with Diltiazem.,Moderate
+ORD00266,138132,2145-07-07,diltiazem,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Diltiazem.,Unknown
+ORD00266,138132,2145-07-07,diltiazem,trazodone,metabolism,The metabolism of Trazodone can be decreased when combined with Diltiazem.,
+ORD00266,138132,2145-07-07,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00266,138132,2145-07-07,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00266,138132,2145-07-07,ziprasidone,trazodone,antihypertensive activities,Trazodone may increase the QTc-prolonging activities of Ziprasidone.,
+ORD00269,138132,2145-07-10,haloperidol,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Haloperidol is combined with Midazolam.,
+ORD00269,138132,2145-07-10,haloperidol,ondansetron,QTc-prolonging activities,Haloperidol may increase the QTc-prolonging activities of Ondansetron.,Major
+ORD00269,138132,2145-07-10,haloperidol,propofol,metabolism,Propofol may increase the QTc-prolonging activities of Haloperidol.,
+ORD00269,138132,2145-07-10,midazolam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Ondansetron.,Unknown
+ORD00269,138132,2145-07-10,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00273,138132,2145-07-14,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00274,138132,2145-07-15,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00274,138132,2145-07-15,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00280,138503,2162-01-16,amlodipine,clonidine,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Clonidine.,
+ORD00280,138503,2162-01-16,amlodipine,fosinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Fosinopril.,
+ORD00280,138503,2162-01-16,amlodipine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Hydrochlorothiazide.,
+ORD00280,138503,2162-01-16,amlodipine,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Amlodipine.,Major
+ORD00280,138503,2162-01-16,clonidine,diazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diazepam is combined with Clonidine.,
+ORD00280,138503,2162-01-16,clonidine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Clonidine is combined with Hydrochlorothiazide.,
+ORD00280,138503,2162-01-16,fosinopril,hydrochlorothiazide,risk or severity of hypotension,The risk or severity of adverse effects can be increased when Fosinopril is combined with Hydrochlorothiazide.,
+ORD00280,138503,2162-01-16,fosinopril,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Fosinopril.,Unknown
+ORD00280,138503,2162-01-16,omeprazole,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Omeprazole.,Moderate
+ORD00282,139932,2147-10-03,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00282,139932,2147-10-03,amlodipine,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amlodipine is combined with Atorvastatin.,
+ORD00282,139932,2147-10-03,amlodipine,calcium gluconate,therapeutic efficacy,The therapeutic efficacy of Amlodipine can be decreased when used in combination with Calcium gluconate.,Moderate
+ORD00282,139932,2147-10-03,amlodipine,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amlodipine is combined with Furosemide.,
+ORD00282,139932,2147-10-03,amlodipine,hydralazine,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Hydralazine.,
+ORD00282,139932,2147-10-03,amlodipine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Lisinopril.,
+ORD00282,139932,2147-10-03,atorvastatin,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydralazine is combined with Atorvastatin.,
+ORD00282,139932,2147-10-03,furosemide,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Hydralazine.,
+ORD00282,139932,2147-10-03,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00282,139932,2147-10-03,lorazepam,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Midazolam.,
+ORD00282,139932,2147-10-03,lorazepam,phenytoin,serum concentration,The serum concentration of Phenytoin can be increased when it is combined with Lorazepam.,
+ORD00282,139932,2147-10-03,pantoprazole,phenytoin,metabolism,The metabolism of Pantoprazole can be increased when combined with Phenytoin.,Unknown
+ORD00293,139932,2147-10-15,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00293,139932,2147-10-15,amlodipine,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amlodipine is combined with Atorvastatin.,
+ORD00293,139932,2147-10-15,amlodipine,hydralazine,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Hydralazine.,
+ORD00293,139932,2147-10-15,amlodipine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Lisinopril.,
+ORD00293,139932,2147-10-15,amlodipine,metolazone,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Metolazone.,
+ORD00293,139932,2147-10-15,atorvastatin,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydralazine is combined with Atorvastatin.,
+ORD00301,139932,2147-10-23,furosemide,phenobarbital,hypotensive activities,Phenobarbital may increase the hypotensive activities of Furosemide.,
+ORD00310,139932,2147-11-02,lorazepam,phenobarbital,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Phenobarbital.,
+ORD00312,140372,2138-04-02,acetaminophen,naproxen,risk or severity of adverse effects,,
+ORD00312,140372,2138-04-02,furosemide,naproxen,therapeutic efficacy,Naproxen may decrease the diuretic activities of Furosemide.,
+ORD00312,140372,2138-04-02,metoprolol,naproxen,antihypertensive activities,Naproxen may decrease the antihypertensive activities of Metoprolol.,
+ORD00312,140372,2138-04-02,metoprolol,prochlorperazine,metabolism,The metabolism of Prochlorperazine can be decreased when combined with Metoprolol.,
+ORD00318,140372,2138-04-08,acetaminophen,ketorolac,risk or severity of adverse effects,,
+ORD00320,140372,2138-04-10,furosemide,naproxen,therapeutic efficacy,Naproxen may decrease the diuretic activities of Furosemide.,
+ORD00346,145024,2202-05-02,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00346,145024,2202-05-02,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00346,145024,2202-05-02,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00346,145024,2202-05-02,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00346,145024,2202-05-02,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00346,145024,2202-05-02,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00359,145203,2107-01-26,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00359,145203,2107-01-26,lorazepam,phenytoin,serum concentration,The serum concentration of Phenytoin can be increased when it is combined with Lorazepam.,
+ORD00374,145203,2107-02-10,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00374,145203,2107-02-10,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00376,146893,2130-08-13,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00377,146893,2130-08-14,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00377,146893,2130-08-14,acetaminophen,paroxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Paroxetine.,
+ORD00377,146893,2130-08-14,alprazolam,diphenhydramine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Alprazolam is combined with Diphenhydramine.,Moderate
+ORD00377,146893,2130-08-14,alprazolam,lisinopril,serum concentration,The serum concentration of Alprazolam can be increased when it is combined with Lisinopril.,
+ORD00377,146893,2130-08-14,alprazolam,paroxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Alprazolam is combined with Paroxetine.,
+ORD00377,146893,2130-08-14,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00380,146893,2130-08-17,alprazolam,lisinopril,serum concentration,The serum concentration of Alprazolam can be increased when it is combined with Lisinopril.,
+ORD00380,146893,2130-08-17,alprazolam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Alprazolam is combined with Prochlorperazine.,
+ORD00382,148562,2147-02-06,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00382,148562,2147-02-06,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00390,148562,2147-02-14,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00390,148562,2147-02-14,metoprolol,ranitidine,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Ranitidine.,Unknown
+ORD00394,149044,2107-05-12,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00394,149044,2107-05-12,atorvastatin,levofloxacin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Levofloxacin is combined with Atorvastatin.,
+ORD00394,149044,2107-05-12,metoprolol,olanzapine,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Olanzapine.,
+ORD00400,149469,2202-09-17,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00400,149469,2202-09-17,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00400,149469,2202-09-17,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00400,149469,2202-09-17,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00403,149469,2202-09-20,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00411,151323,2166-02-12,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00416,151323,2166-02-17,etomidate,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Etomidate.,
+ORD00423,151798,2202-02-15,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00426,151798,2202-02-18,duloxetine,furosemide,orthostatic hypotensive activities,Furosemide may increase the orthostatic hypotensive activities of Duloxetine.,
+ORD00426,151798,2202-02-18,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00426,151798,2202-02-18,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00426,151798,2202-02-18,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00428,152032,2200-06-09,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00428,152032,2200-06-09,acetaminophen,omeprazole,metabolism,The metabolism of Acetaminophen can be decreased when combined with Omeprazole.,Unknown
+ORD00428,152032,2200-06-09,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00428,152032,2200-06-09,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00428,152032,2200-06-09,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00428,152032,2200-06-09,baclofen,trazodone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Trazodone is combined with Baclofen.,
+ORD00428,152032,2200-06-09,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00428,152032,2200-06-09,duloxetine,trazodone,serotonergic activities,The risk or severity of adverse effects can be increased when Trazodone is combined with Duloxetine.,
+ORD00428,152032,2200-06-09,mirtazapine,trazodone,central nervous system depressant (CNS depressant) activities,Trazodone may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00433,153826,2202-10-03,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00433,153826,2202-10-03,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00433,153826,2202-10-03,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00433,153826,2202-10-03,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00433,153826,2202-10-03,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00433,153826,2202-10-03,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00433,153826,2202-10-03,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00433,153826,2202-10-03,gabapentin,sodium bicarbonate,serum concentration,The serum concentration of Gabapentin can be decreased when it is combined with Sodium bicarbonate.,Unknown
+ORD00433,153826,2202-10-03,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00442,154156,2131-07-26,acetaminophen,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Acetaminophen.,Unknown
+ORD00442,154156,2131-07-26,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00445,155297,2201-11-17,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00445,155297,2201-11-17,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00445,155297,2201-11-17,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00445,155297,2201-11-17,baclofen,paroxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Paroxetine.,
+ORD00445,155297,2201-11-17,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00445,155297,2201-11-17,duloxetine,paroxetine,serotonergic activities,Duloxetine may increase the serotonergic activities of Paroxetine.,
+ORD00445,155297,2201-11-17,mirtazapine,paroxetine,metabolism,The risk or severity of adverse effects can be increased when Paroxetine is combined with Mirtazapine.,
+ORD00448,157235,2132-12-05,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00448,157235,2132-12-05,metoprolol,mirtazapine,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Mirtazapine.,
+ORD00448,157235,2132-12-05,metoprolol,ranitidine,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Ranitidine.,Unknown
+ORD00451,157466,2117-08-06,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00455,157466,2117-08-11,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00468,157839,2147-02-23,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00468,157839,2147-02-23,atorvastatin,captopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Captopril.,
+ORD00473,158100,2106-08-30,acetaminophen,ketorolac,risk or severity of adverse effects,,
+ORD00473,158100,2106-08-30,acetaminophen,omeprazole,metabolism,The metabolism of Acetaminophen can be decreased when combined with Omeprazole.,Unknown
+ORD00473,158100,2106-08-30,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00473,158100,2106-08-30,omeprazole,ondansetron,metabolism,The metabolism of Ondansetron can be decreased when combined with Omeprazole.,Unknown
+ORD00475,159647,2146-07-21,donepezil,tolterodine,therapeutic efficacy,The therapeutic efficacy of Tolterodine can be decreased when used in combination with Donepezil.,
+ORD00476,160445,2171-07-12,fluconazole,propofol,metabolism,The metabolism of Propofol can be decreased when combined with Fluconazole.,Moderate
+ORD00476,160445,2171-07-12,fluconazole,tacrolimus,serum concentration,The serum concentration of Tacrolimus can be increased when it is combined with Fluconazole.,Major
+ORD00477,160445,2171-07-13,fluconazole,levofloxacin,QTc-prolonging activities,Fluconazole may increase the QTc-prolonging activities of Levofloxacin.,Moderate
+ORD00477,160445,2171-07-13,fluconazole,magnesium sulfate,therapeutic efficacy,The serum concentration of Magnesium Sulfate can be increased when it is combined with Fluconazole.,
+ORD00477,160445,2171-07-13,fluconazole,tacrolimus,serum concentration,The serum concentration of Tacrolimus can be increased when it is combined with Fluconazole.,Major
+ORD00486,160445,2171-07-22,fluconazole,magnesium sulfate,therapeutic efficacy,The serum concentration of Magnesium Sulfate can be increased when it is combined with Fluconazole.,
+ORD00486,160445,2171-07-22,fluconazole,tacrolimus,serum concentration,The serum concentration of Tacrolimus can be increased when it is combined with Fluconazole.,Major
+ORD00487,160445,2171-07-23,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00497,160445,2171-08-02,mycophenolate mofetil,tacrolimus,immunosuppressive activities,Mycophenolate mofetil may increase the nephrotoxic activities of Tacrolimus.,
+ORD00498,160445,2171-08-03,prednisone,tacrolimus,immunosuppressive activities,The risk or severity of adverse effects can be increased when Tacrolimus is combined with Prednisone.,Moderate
+ORD00501,160445,2171-08-06,calcium acetate,calcium carbonate,risk or severity of adverse effects,,
+ORD00503,160445,2171-08-08,mycophenolate mofetil,tacrolimus,immunosuppressive activities,Mycophenolate mofetil may increase the nephrotoxic activities of Tacrolimus.,
+ORD00505,160445,2171-08-10,calcium acetate,calcium gluconate,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcium Acetate.,
+ORD00505,160445,2171-08-10,prednisone,tacrolimus,immunosuppressive activities,The risk or severity of adverse effects can be increased when Tacrolimus is combined with Prednisone.,Moderate
+ORD00527,163189,2123-12-12,midodrine,risperidone,vasoconstricting activities,,
+ORD00543,164869,2105-05-29,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00543,164869,2105-05-29,fluconazole,pantoprazole,serum concentration,The serum concentration of Pantoprazole can be increased when it is combined with Fluconazole.,Moderate
+ORD00543,164869,2105-05-29,fluconazole,prednisone,serum concentration,The serum concentration of Prednisone can be increased when it is combined with Fluconazole.,Moderate
+ORD00549,164869,2105-06-04,calcitriol,calcium carbonate,risk or severity of adverse effects,,
+ORD00549,164869,2105-06-04,calcitriol,calcium gluconate,risk or severity of adverse effects,,
+ORD00560,165436,2117-08-23,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00561,165436,2117-08-25,haloperidol,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Haloperidol.,
+ORD00564,167021,2104-10-24,acetaminophen,dexamethasone,risk or severity of adverse effects,,Unknown
+ORD00564,167021,2104-10-24,midazolam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Ondansetron.,Unknown
+ORD00568,167181,2110-12-29,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00568,167181,2110-12-29,acetaminophen,paroxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Paroxetine.,
+ORD00583,167754,2160-05-04,acetaminophen,haloperidol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Haloperidol.,
+ORD00583,167754,2160-05-04,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00583,167754,2160-05-04,amlodipine,hydralazine,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Hydralazine.,
+ORD00583,167754,2160-05-04,amlodipine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Hydrochlorothiazide.,
+ORD00583,167754,2160-05-04,amlodipine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Lisinopril.,
+ORD00583,167754,2160-05-04,azithromycin,haloperidol,QTc-prolonging activities,Azithromycin may increase the QTc-prolonging activities of Haloperidol.,
+ORD00623,168803,2186-07-07,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00624,169938,2107-01-05,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00624,169938,2107-01-05,acetaminophen,dexamethasone,risk or severity of adverse effects,,Unknown
+ORD00624,169938,2107-01-05,atorvastatin,dexamethasone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Dexamethasone is combined with Atorvastatin.,Moderate
+ORD00624,169938,2107-01-05,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00627,169938,2107-01-08,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00627,169938,2107-01-08,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00629,169938,2107-01-10,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00632,170119,2167-02-12,digoxin,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Digoxin.,
+ORD00636,170119,2167-02-17,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00639,170883,2192-04-17,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00639,170883,2192-04-17,atenolol,donepezil,bradycardic activities,Donepezil may increase the bradycardic activities of Atenolol.,
+ORD00639,170883,2192-04-17,atenolol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Furosemide.,
+ORD00639,170883,2192-04-17,atenolol,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Atenolol is combined with Lisinopril.,
+ORD00639,170883,2192-04-17,atenolol,prochlorperazine,hypotensive activities,Prochlorperazine may increase the hypotensive activities of Atenolol.,
+ORD00639,170883,2192-04-17,atorvastatin,calcium carbonate,serum concentration,The serum concentration of Atorvastatin can be decreased when it is combined with Calcium Carbonate.,
+ORD00639,170883,2192-04-17,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00639,170883,2192-04-17,metoprolol,prochlorperazine,metabolism,The metabolism of Prochlorperazine can be decreased when combined with Metoprolol.,
+ORD00642,170883,2192-04-20,azithromycin,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Azithromycin.,Moderate
+ORD00649,170883,2192-04-27,metoprolol,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Spironolactone.,
+ORD00657,170883,2192-05-05,metoprolol,propofol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Propofol.,
+ORD00657,170883,2192-05-05,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00657,170883,2192-05-05,pantoprazole,propofol,metabolism,The metabolism of Propofol can be decreased when combined with Pantoprazole.,Unknown
+ORD00657,170883,2192-05-05,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00668,171628,2112-02-04,acetaminophen,omeprazole,metabolism,The metabolism of Acetaminophen can be decreased when combined with Omeprazole.,Unknown
+ORD00668,171628,2112-02-04,levetiracetam,magnesium oxide,risk or severity of hypotension and neuromuscular blockade,,
+ORD00669,171628,2112-02-06,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00675,171878,2102-08-29,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00677,171878,2102-08-31,furosemide,hydralazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Hydralazine.,
+ORD00677,171878,2102-08-31,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00677,171878,2102-08-31,imipramine,lisinopril,serum concentration,The serum concentration of Imipramine can be increased when it is combined with Lisinopril.,
+ORD00677,171878,2102-08-31,imipramine,meclizine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Imipramine is combined with Meclizine.,Moderate
+ORD00678,171878,2102-09-01,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00678,171878,2102-09-01,ketorolac,lisinopril,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lisinopril is combined with Ketorolac.,
+ORD00685,172082,2200-03-19,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00686,172082,2200-03-20,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00686,172082,2200-03-20,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00686,172082,2200-03-20,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00686,172082,2200-03-20,duloxetine,furosemide,orthostatic hypotensive activities,Furosemide may increase the orthostatic hypotensive activities of Duloxetine.,
+ORD00686,172082,2200-03-20,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00686,172082,2200-03-20,duloxetine,ranitidine,metabolism,The metabolism of Ranitidine can be decreased when combined with Duloxetine.,Minor
+ORD00691,172082,2200-03-26,gabapentin,magnesium oxide,serum concentration,Magnesium oxide may increase the central nervous system depressant (CNS depressant) activities of Gabapentin.,Minor
+ORD00693,172082,2200-03-28,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00695,172454,2104-09-25,acetaminophen,dexamethasone,risk or severity of adverse effects,,Unknown
+ORD00700,173269,2199-01-13,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00700,173269,2199-01-13,duloxetine,metoclopramide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoclopramide is combined with Duloxetine.,Moderate
+ORD00700,173269,2199-01-13,duloxetine,simvastatin,metabolism,The metabolism of Simvastatin can be decreased when combined with Duloxetine.,Unknown
+ORD00700,173269,2199-01-13,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00700,173269,2199-01-13,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00701,173269,2199-01-14,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00701,173269,2199-01-14,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD00706,174245,2178-05-15,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00706,174245,2178-05-15,lorazepam,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Propofol.,
+ORD00706,174245,2178-05-15,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00707,174739,2180-01-14,allopurinol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Allopurinol.,
+ORD00707,174739,2180-01-14,furosemide,isosorbide dinitrate,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Isosorbide Dinitrate.,
+ORD00712,174739,2180-01-19,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00714,174739,2180-01-21,digoxin,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Digoxin.,
+ORD00714,174739,2180-01-21,digoxin,prednisone,cardiotoxic activities,Digoxin may decrease the cardiotoxic activities of Prednisone.,Moderate
+ORD00714,174739,2180-01-21,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD00714,174739,2180-01-21,diltiazem,prednisone,metabolism,The metabolism of Prednisone can be decreased when combined with Diltiazem.,Moderate
+ORD00717,174739,2180-01-24,prednisone,warfarin,anticoagulant activities,Prednisone may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00724,174863,2201-08-11,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00724,174863,2201-08-11,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00724,174863,2201-08-11,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00724,174863,2201-08-11,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00724,174863,2201-08-11,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00724,174863,2201-08-11,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00724,174863,2201-08-11,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00724,174863,2201-08-11,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00746,176016,2199-02-01,magnesium sulfate,midazolam,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Midazolam.,
+ORD00748,176016,2199-02-04,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00752,176016,2199-02-08,duloxetine,furosemide,orthostatic hypotensive activities,Furosemide may increase the orthostatic hypotensive activities of Duloxetine.,
+ORD00752,176016,2199-02-08,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00756,176016,2199-02-12,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00759,176805,2124-01-13,acetaminophen,ketorolac,risk or severity of adverse effects,,
+ORD00759,176805,2124-01-13,acetaminophen,naproxen,risk or severity of adverse effects,,
+ORD00759,176805,2124-01-13,ketorolac,naproxen,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ketorolac is combined with Naproxen.,
+ORD00761,177678,2120-08-25,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD00761,177678,2120-08-25,acetaminophen,dexamethasone,risk or severity of adverse effects,,Unknown
+ORD00761,177678,2120-08-25,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00761,177678,2120-08-25,atorvastatin,calcium carbonate,serum concentration,The serum concentration of Atorvastatin can be decreased when it is combined with Calcium Carbonate.,
+ORD00761,177678,2120-08-25,atorvastatin,dexamethasone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Dexamethasone is combined with Atorvastatin.,Moderate
+ORD00761,177678,2120-08-25,metformin,prednisone,therapeutic efficacy,The therapeutic efficacy of Metformin can be decreased when used in combination with Prednisone.,Moderate
+ORD00768,177759,2163-05-15,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00769,178513,2117-03-21,acetaminophen,omeprazole,metabolism,The metabolism of Acetaminophen can be decreased when combined with Omeprazole.,Unknown
+ORD00769,178513,2117-03-21,atenolol,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Spironolactone.,
+ORD00778,179418,2202-01-01,acetaminophen,duloxetine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Duloxetine.,
+ORD00778,179418,2202-01-01,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00778,179418,2202-01-01,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00778,179418,2202-01-01,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00778,179418,2202-01-01,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00778,179418,2202-01-01,duloxetine,furosemide,orthostatic hypotensive activities,Furosemide may increase the orthostatic hypotensive activities of Duloxetine.,
+ORD00778,179418,2202-01-01,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00778,179418,2202-01-01,duloxetine,warfarin,anticoagulant activities,Duloxetine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00778,179418,2202-01-01,mirtazapine,warfarin,anticoagulant activities,Mirtazapine may increase the anticoagulant activities of Warfarin.,Moderate
+ORD00781,180391,2160-12-16,azithromycin,pantoprazole,metabolism,The metabolism of Pantoprazole can be decreased when combined with Azithromycin.,Unknown
+ORD00784,180391,2160-12-19,atenolol,captopril,hypotensive activities,The risk or severity of adverse effects can be increased when Atenolol is combined with Captopril.,
+ORD00784,180391,2160-12-19,atenolol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Furosemide.,
+ORD00785,180391,2160-12-20,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00787,180546,2201-05-12,baclofen,duloxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Baclofen is combined with Duloxetine.,
+ORD00787,180546,2201-05-12,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00787,180546,2201-05-12,baclofen,mirtazapine,central nervous system depressant (CNS depressant) activities,Baclofen may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00787,180546,2201-05-12,duloxetine,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Duloxetine.,
+ORD00789,180546,2201-05-14,baclofen,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Baclofen.,
+ORD00795,180685,2170-12-03,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00795,180685,2170-12-03,metoprolol,propofol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Propofol.,
+ORD00796,182664,2192-03-26,atenolol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Furosemide.,
+ORD00796,182664,2192-03-26,atenolol,glipizide,hypoglycemic activities,Atenolol may increase the hypoglycemic activities of Glipizide.,Moderate
+ORD00796,182664,2192-03-26,atenolol,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Atenolol is combined with Lisinopril.,
+ORD00796,182664,2192-03-26,atenolol,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Spironolactone.,
+ORD00796,182664,2192-03-26,atorvastatin,calcium carbonate,serum concentration,The serum concentration of Atorvastatin can be decreased when it is combined with Calcium Carbonate.,
+ORD00796,182664,2192-03-26,furosemide,glipizide,therapeutic efficacy,The therapeutic efficacy of Glipizide can be decreased when used in combination with Furosemide.,Moderate
+ORD00796,182664,2192-03-26,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00802,182664,2192-04-02,atenolol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Atenolol is combined with Furosemide.,
+ORD00820,182839,2198-07-16,fluconazole,gabapentin,therapeutic efficacy,The serum concentration of Gabapentin can be increased when it is combined with Fluconazole.,Unknown
+ORD00825,182879,2184-08-06,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00828,182879,2184-08-10,furosemide,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Lisinopril.,
+ORD00828,182879,2184-08-10,lisinopril,potassium chloride,hyperkalemic activities,,Major
+ORD00830,183314,2189-09-08,metoprolol,neostigmine,bradycardic activities,Neostigmine may increase the bradycardic activities of Metoprolol.,
+ORD00837,183314,2189-09-16,amlodipine,calcium gluconate,therapeutic efficacy,The therapeutic efficacy of Amlodipine can be decreased when used in combination with Calcium gluconate.,Moderate
+ORD00837,183314,2189-09-16,amlodipine,doxazosin,hypotensive activities,The risk or severity of adverse effects can be increased when Amlodipine is combined with Doxazosin.,
+ORD00837,183314,2189-09-16,amlodipine,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Amlodipine.,Major
+ORD00837,183314,2189-09-16,metoprolol,simvastatin,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Simvastatin.,Unknown
+ORD00840,186071,2173-11-27,acetaminophen,felodipine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Felodipine.,
+ORD00840,186071,2173-11-27,felodipine,hydralazine,hypotensive activities,The risk or severity of adverse effects can be increased when Felodipine is combined with Hydralazine.,
+ORD00840,186071,2173-11-27,pantoprazole,phenytoin,metabolism,The metabolism of Pantoprazole can be increased when combined with Phenytoin.,Unknown
+ORD00842,186071,2173-11-29,phenytoin,trazodone,serum concentration,The serum concentration of Trazodone can be decreased when it is combined with Phenytoin.,
+ORD00843,186361,2144-07-11,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00845,186361,2144-07-13,furosemide,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Furosemide.,
+ORD00845,186361,2144-07-13,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00864,186361,2144-08-01,clotrimazole,diazepam,metabolism,The metabolism of Diazepam can be decreased when combined with Clotrimazole.,Moderate
+ORD00864,186361,2144-08-01,clotrimazole,haloperidol,metabolism,The metabolism of Haloperidol can be decreased when combined with Clotrimazole.,Unknown
+ORD00865,186361,2144-08-07,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00868,186361,2144-08-10,fluconazole,gabapentin,therapeutic efficacy,The serum concentration of Gabapentin can be increased when it is combined with Fluconazole.,Unknown
+ORD00868,186361,2144-08-10,fluconazole,pantoprazole,serum concentration,The serum concentration of Pantoprazole can be increased when it is combined with Fluconazole.,Moderate
+ORD00869,186361,2144-08-11,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00869,186361,2144-08-11,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00870,186361,2144-08-12,lorazepam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Prochlorperazine.,
+ORD00872,186361,2144-08-14,alprazolam,gabapentin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Alprazolam is combined with Gabapentin.,
+ORD00878,186361,2144-08-21,allopurinol,sodium bicarbonate,absorption,Sodium bicarbonate can cause a decrease in the absorption of Allopurinol resulting in a reduced serum concentration and potentially a decrease in efficacy.,Unknown
+ORD00878,186361,2144-08-21,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00886,186361,2144-09-01,acetaminophen,ketorolac,risk or severity of adverse effects,,
+ORD00889,186361,2144-09-04,nortriptyline,ondansetron,QTc-prolonging activities,Nortriptyline may increase the QTc-prolonging activities of Ondansetron.,Major
+ORD00889,186361,2144-09-04,nortriptyline,tizanidine,antihypertensive activities,Nortriptyline may decrease the antihypertensive activities of Tizanidine.,
+ORD00889,186361,2144-09-04,prochlorperazine,tizanidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Tizanidine.,
+ORD00895,186361,2144-09-12,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00895,186361,2144-09-12,lorazepam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Prochlorperazine.,
+ORD00895,186361,2144-09-12,lorazepam,tizanidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Tizanidine.,
+ORD00895,186361,2144-09-12,prochlorperazine,tizanidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Tizanidine.,
+ORD00897,186361,2144-09-17,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00897,186361,2144-09-17,acetaminophen,methadone,metabolism,The metabolism of Acetaminophen can be decreased when combined with Methadone.,
+ORD00900,186361,2144-09-20,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00902,186361,2144-09-22,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00909,186361,2144-10-03,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00909,186361,2144-10-03,lorazepam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Prochlorperazine.,
+ORD00914,186361,2144-10-11,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00918,186361,2144-10-16,methadone,midazolam,central nervous system depressant (CNS depressant) activities,Midazolam may increase the central nervous system depressant (CNS depressant) activities of Methadone.,
+ORD00927,186361,2144-10-28,acetaminophen,diphenhydramine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Diphenhydramine.,
+ORD00927,186361,2144-10-28,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00927,186361,2144-10-28,lorazepam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Prochlorperazine.,
+ORD00931,186361,2144-11-06,dexamethasone,sodium bicarbonate,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Sodium bicarbonate.,Minor
+ORD00942,190301,2132-08-06,lorazepam,magnesium sulfate,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Lorazepam.,
+ORD00942,190301,2132-08-06,lorazepam,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Propofol.,
+ORD00942,190301,2132-08-06,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD00946,193924,2115-05-12,calcium chloride,levetiracetam,therapeutic efficacy,,Unknown
+ORD00947,193924,2115-05-13,calcium chloride,levetiracetam,therapeutic efficacy,,Unknown
+ORD00947,193924,2115-05-13,metoprolol,propofol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Propofol.,
+ORD00949,195911,2119-10-17,midazolam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Ondansetron.,Unknown
+ORD00957,195911,2119-10-26,haloperidol,rifaximin,serum concentration,The serum concentration of Rifaximin can be increased when it is combined with Haloperidol.,
+ORD00961,195911,2119-10-30,midazolam,propofol,serum concentration,The serum concentration of Propofol can be increased when it is combined with Midazolam.,
+ORD00963,195911,2119-11-01,lorazepam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Ondansetron.,Unknown
+ORD00966,195911,2119-11-04,etomidate,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Etomidate.,
+ORD00975,197611,2123-08-24,acetaminophen,cimetidine,metabolism,The metabolism of Acetaminophen can be decreased when combined with Cimetidine.,Minor
+ORD00975,197611,2123-08-24,acetaminophen,prednisone,risk or severity of adverse effects,,Unknown
+ORD00975,197611,2123-08-24,cimetidine,glipizide,serum concentration,The serum concentration of Glipizide can be increased when it is combined with Cimetidine.,Moderate
+ORD00975,197611,2123-08-24,cimetidine,glyburide,serum concentration,The serum concentration of Glyburide can be increased when it is combined with Cimetidine.,Moderate
+ORD00997,198330,2112-05-30,magnesium sulfate,ondansetron,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Ondansetron.,
+ORD01002,198480,2169-05-07,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD01002,198480,2169-05-07,acetaminophen,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Acetaminophen.,Unknown
+ORD01008,198503,2107-03-22,azithromycin,pantoprazole,metabolism,The metabolism of Pantoprazole can be decreased when combined with Azithromycin.,Unknown
+ORD01010,198503,2107-03-24,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD01010,198503,2107-03-24,metoprolol,propofol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Propofol.,
+ORD01022,199207,2149-06-01,pantoprazole,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Pantoprazole.,Moderate
+ORD01025,199395,2190-07-13,magnesium sulfate,propofol,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Propofol.,
+ORD01027,199395,2190-07-15,diltiazem,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Diltiazem is combined with Furosemide.,
+ORD01032,199395,2190-07-20,acetaminophen,atorvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.,
+ORD01032,199395,2190-07-20,acetaminophen,warfarin,anticoagulant activities,Acetaminophen may increase the anticoagulant activities of Warfarin.,Moderate
+ORD01032,199395,2190-07-20,furosemide,glipizide,therapeutic efficacy,The therapeutic efficacy of Glipizide can be decreased when used in combination with Furosemide.,Moderate
+ORD01032,199395,2190-07-20,metoprolol,ranitidine,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Ranitidine.,Unknown
+ORD00002,100375,2129-05-04,levofloxacin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Levofloxacin.,Major
+ORD00019,102203,2127-07-23,clotrimazole,folic acid,metabolism,The metabolism of Folic Acid can be decreased when combined with Clotrimazole.,Unknown
+ORD00021,102203,2127-07-25,metoclopramide,trazodone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Trazodone is combined with Metoclopramide.,Moderate
+ORD00026,102203,2127-07-30,clotrimazole,folic acid,metabolism,The metabolism of Folic Acid can be decreased when combined with Clotrimazole.,Unknown
+ORD00031,103379,2170-12-15,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00031,103379,2170-12-15,magnesium sulfate,prochlorperazine,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Prochlorperazine.,
+ORD00033,103379,2170-12-17,furosemide,labetalol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Labetalol is combined with Furosemide.,
+ORD00041,103770,2195-05-18,enalaprilat,hydralazine,hypotensive activities,Hydralazine may increase the hypotensive activities of Enalaprilat.,
+ORD00041,103770,2195-05-18,enalaprilat,metoprolol,hypotensive activities,Metoprolol may increase the hypotensive activities of Enalaprilat.,
+ORD00041,103770,2195-05-18,hydralazine,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Hydralazine.,
+ORD00043,103770,2195-05-20,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00048,104697,2159-11-18,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00051,104697,2159-11-21,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00052,105150,2138-11-09,calcium carbonate,gabapentin,serum concentration,The serum concentration of Gabapentin can be decreased when it is combined with Calcium Carbonate.,
+ORD00052,105150,2138-11-09,calcium carbonate,levofloxacin,absorption,Calcium Carbonate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00052,105150,2138-11-09,levofloxacin,sevelamer,absorption,Sevelamer can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00054,105150,2138-11-12,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00054,105150,2138-11-12,calcium carbonate,gabapentin,serum concentration,The serum concentration of Gabapentin can be decreased when it is combined with Calcium Carbonate.,
+ORD00054,105150,2138-11-12,calcium carbonate,levofloxacin,absorption,Calcium Carbonate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00054,105150,2138-11-12,gabapentin,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Gabapentin.,
+ORD00054,105150,2138-11-12,levofloxacin,sevelamer,absorption,Sevelamer can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00054,105150,2138-11-12,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00059,109698,2193-10-15,acetaminophen,valsartan,metabolism,The metabolism of Acetaminophen can be decreased when combined with Valsartan.,
+ORD00059,109698,2193-10-15,bisacodyl,calcium carbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Calcium Carbonate.,Moderate
+ORD00059,109698,2193-10-15,calcium carbonate,felodipine,therapeutic efficacy,,Moderate
+ORD00059,109698,2193-10-15,calcium carbonate,hydrochlorothiazide,excretion rate of higher serum level,,Moderate
+ORD00059,109698,2193-10-15,calcium carbonate,promethazine,absorption,Calcium Carbonate can cause a decrease in the absorption of Promethazine resulting in a reduced serum concentration and potentially a decrease in efficacy.,
+ORD00059,109698,2193-10-15,famotidine,ondansetron,QTc-prolonging activities,Famotidine may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00059,109698,2193-10-15,felodipine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Felodipine.,
+ORD00059,109698,2193-10-15,felodipine,valsartan,hypotensive activities,The risk or severity of adverse effects can be increased when Valsartan is combined with Felodipine.,
+ORD00059,109698,2193-10-15,felodipine,warfarin,metabolism,The metabolism of Warfarin can be decreased when combined with Felodipine.,Unknown
+ORD00059,109698,2193-10-15,hydrochlorothiazide,valsartan,hypotensive activities,Hydrochlorothiazide may increase the hypotensive activities of Valsartan.,
+ORD00059,109698,2193-10-15,ondansetron,valsartan,metabolism,The metabolism of Ondansetron can be decreased when combined with Valsartan.,Unknown
+ORD00062,109698,2193-10-18,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00064,110244,2129-03-03,acetaminophen,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Acetaminophen.,
+ORD00064,110244,2129-03-03,diazepam,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Diazepam.,
+ORD00065,110244,2129-03-04,calcium carbonate,magnesium sulfate,therapeutic efficacy,,
+ORD00065,110244,2129-03-04,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00065,110244,2129-03-04,magnesium oxide,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,The risk or severity of adverse effects can be increased when Magnesium Sulfate is combined with Magnesium oxide.,Moderate
+ORD00067,110244,2129-03-06,acetaminophen,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Acetaminophen.,
+ORD00067,110244,2129-03-06,diazepam,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Diazepam.,
+ORD00068,110958,2175-10-02,atorvastatin,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Atorvastatin.,
+ORD00068,110958,2175-10-02,atorvastatin,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.,Unknown
+ORD00068,110958,2175-10-02,metoclopramide,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoclopramide is combined with Ondansetron.,Unknown
+ORD00068,110958,2175-10-02,metoclopramide,ondansetron,QTc-prolonging activities,The risk or severity of adverse effects can be increased when Metoclopramide is combined with Ondansetron.,Unknown
+ORD00068,110958,2175-10-02,ondansetron,propofol,risk or severity of adverse effects,Propofol may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00069,110958,2175-10-03,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00069,110958,2175-10-03,atorvastatin,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.,Unknown
+ORD00085,112662,2128-11-04,sertraline,simvastatin,serum concentration,The metabolism of Simvastatin can be decreased when combined with Sertraline.,Unknown
+ORD00086,112662,2128-11-05,carvedilol,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Furosemide is combined with Carvedilol.,
+ORD00097,114867,2165-12-19,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00097,114867,2165-12-19,hydralazine,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Hydralazine.,Moderate
+ORD00097,114867,2165-12-19,hydralazine,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Hydralazine.,
+ORD00097,114867,2165-12-19,hydralazine,tamsulosin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tamsulosin is combined with Hydralazine.,
+ORD00099,114867,2165-12-21,haloperidol,olanzapine,metabolism,Olanzapine may increase the QTc-prolonging activities of Haloperidol.,
+ORD00103,116518,2144-10-15,enalaprilat,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Enalaprilat is combined with Propofol.,
+ORD00104,116518,2144-10-16,calcium gluconate,diltiazem,therapeutic efficacy,The therapeutic efficacy of Diltiazem can be decreased when used in combination with Calcium gluconate.,Moderate
+ORD00104,116518,2144-10-16,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00107,116518,2144-10-19,digoxin,diltiazem,metabolism,The metabolism of Digoxin can be decreased when combined with Diltiazem.,
+ORD00107,116518,2144-10-19,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00108,116518,2144-10-20,hydralazine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Hydralazine.,
+ORD00108,116518,2144-10-20,hydralazine,labetalol,hypotensive activities,The risk or severity of adverse effects can be increased when Labetalol is combined with Hydralazine.,
+ORD00108,116518,2144-10-20,hydrochlorothiazide,labetalol,hypotensive activities,The risk or severity of adverse effects can be increased when Labetalol is combined with Hydrochlorothiazide.,
+ORD00127,118192,2145-09-06,diazepam,haloperidol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Haloperidol is combined with Diazepam.,
+ORD00127,118192,2145-09-06,diazepam,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Diazepam.,
+ORD00127,118192,2145-09-06,diazepam,pantoprazole,metabolism,The metabolism of Diazepam can be decreased when combined with Pantoprazole.,Unknown
+ORD00127,118192,2145-09-06,diazepam,ziprasidone,metabolism,The metabolism of Diazepam can be decreased when combined with Ziprasidone.,
+ORD00127,118192,2145-09-06,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00127,118192,2145-09-06,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00127,118192,2145-09-06,haloperidol,pantoprazole,metabolism,The metabolism of Haloperidol can be decreased when combined with Pantoprazole.,Unknown
+ORD00127,118192,2145-09-06,haloperidol,ziprasidone,QTc-prolonging activities,The metabolism of Haloperidol can be decreased when combined with Ziprasidone.,
+ORD00127,118192,2145-09-06,levofloxacin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Levofloxacin.,Major
+ORD00127,118192,2145-09-06,levofloxacin,warfarin,anticoagulant activities,Levofloxacin may increase the anticoagulant activities of Warfarin.,Major
+ORD00127,118192,2145-09-06,levofloxacin,ziprasidone,QTc-prolonging activities,Levofloxacin may increase the QTc-prolonging activities of Ziprasidone.,Major
+ORD00127,118192,2145-09-06,prednisone,ziprasidone,metabolism,The metabolism of Prednisone can be decreased when combined with Ziprasidone.,Unknown
+ORD00127,118192,2145-09-06,warfarin,ziprasidone,metabolism,The metabolism of Warfarin can be decreased when combined with Ziprasidone.,Unknown
+ORD00136,121860,2179-04-17,amiodarone,pantoprazole,metabolism,The metabolism of Pantoprazole can be decreased when combined with Amiodarone.,Unknown
+ORD00136,121860,2179-04-17,amiodarone,simvastatin,serum concentration,The metabolism of Simvastatin can be decreased when combined with Amiodarone.,Major
+ORD00148,122928,2180-03-16,acetaminophen,cabergoline,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Cabergoline is combined with Acetaminophen.,
+ORD00148,122928,2180-03-16,bisacodyl,calcium carbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Calcium Carbonate.,Moderate
+ORD00153,124073,2152-10-03,dexamethasone,furosemide,hypokalemic activities,Dexamethasone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00155,124073,2152-10-05,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00156,124073,2152-10-06,hydrochlorothiazide,minoxidil,hypotensive activities,The risk or severity of adverse effects can be increased when Minoxidil is combined with Hydrochlorothiazide.,Unknown
+ORD00157,124073,2152-10-07,amlodipine,minoxidil,hypotensive activities,The risk or severity of adverse effects can be increased when Minoxidil is combined with Amlodipine.,Unknown
+ORD00157,124073,2152-10-07,amlodipine,phenytoin,metabolism,The serum concentration of Phenytoin can be increased when it is combined with Amlodipine.,
+ORD00157,124073,2152-10-07,cephalexin,phenytoin,metabolism,The metabolism of Cephalexin can be increased when combined with Phenytoin.,
+ORD00157,124073,2152-10-07,dexamethasone,phenytoin,serum concentration,The serum concentration of Dexamethasone can be decreased when it is combined with Phenytoin.,Moderate
+ORD00161,125013,2201-09-28,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00161,125013,2201-09-28,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00171,125449,2198-10-29,calcium gluconate,gabapentin,therapeutic efficacy,The therapeutic efficacy of Gabapentin can be decreased when used in combination with Calcium gluconate.,
+ORD00171,125449,2198-10-29,clopidogrel,midazolam,metabolism,The metabolism of Midazolam can be decreased when combined with Clopidogrel.,Unknown
+ORD00171,125449,2198-10-29,gabapentin,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Gabapentin.,
+ORD00171,125449,2198-10-29,midazolam,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Midazolam.,Unknown
+ORD00173,125449,2198-10-31,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00190,126179,2130-02-06,levofloxacin,magnesium sulfate,serum concentration,The serum concentration of Levofloxacin can be decreased when it is combined with Magnesium Sulfate.,Moderate
+ORD00190,126179,2130-02-06,levofloxacin,tolterodine,QTc-prolonging activities,Tolterodine may increase the QTc-prolonging activities of Levofloxacin.,
+ORD00194,126949,2129-11-24,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00194,126949,2129-11-24,atorvastatin,metronidazole,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metronidazole is combined with Atorvastatin.,Moderate
+ORD00194,126949,2129-11-24,atorvastatin,oxybutynin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Oxybutynin is combined with Atorvastatin.,
+ORD00194,126949,2129-11-24,atorvastatin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Atorvastatin.,Unknown
+ORD00196,126949,2129-11-26,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00205,128293,2135-10-25,gabapentin,tamsulosin,risk or severity of hypotension,Tamsulosin may increase the hypotensive activities of Gabapentin.,
+ORD00210,129273,2155-03-10,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00212,130681,2200-10-30,acetaminophen,citalopram,metabolism,The metabolism of Acetaminophen can be decreased when combined with Citalopram.,
+ORD00212,130681,2200-10-30,gabapentin,trazodone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Trazodone.,
+ORD00212,130681,2200-10-30,warfarin,trazodone,anticoagulant activities,Trazodone may decrease the anticoagulant activities of Warfarin.,Minor
+ORD00218,130870,2198-06-30,amiodarone,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amiodarone is combined with Furosemide.,
+ORD00218,130870,2198-06-30,amiodarone,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,,
+ORD00219,130870,2198-07-01,furosemide,labetalol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Labetalol is combined with Furosemide.,
+ORD00219,130870,2198-07-01,hydralazine,labetalol,hypotensive activities,The risk or severity of adverse effects can be increased when Labetalol is combined with Hydralazine.,
+ORD00220,130870,2198-07-02,amiodarone,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amiodarone is combined with Furosemide.,
+ORD00222,130870,2198-07-04,amiodarone,olanzapine,metabolism,Olanzapine may increase the QTc-prolonging activities of Amiodarone.,
+ORD00223,130870,2198-07-05,amiodarone,furosemide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Amiodarone is combined with Furosemide.,
+ORD00233,132349,2139-09-22,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00233,132349,2139-09-22,isoniazid,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Isoniazid.,
+ORD00233,132349,2139-09-22,isoniazid,simvastatin,serum concentration,The metabolism of Simvastatin can be decreased when combined with Isoniazid.,Moderate
+ORD00233,132349,2139-09-22,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00233,132349,2139-09-22,lisinopril,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Lisinopril.,Unknown
+ORD00234,132349,2139-09-23,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00237,132349,2139-09-26,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00242,133283,2161-09-15,hydromorphone,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Hydromorphone.,
+ORD00244,133283,2161-09-18,alprazolam,hydromorphone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Alprazolam.,
+ORD00244,133283,2161-09-18,alprazolam,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Alprazolam.,
+ORD00244,133283,2161-09-18,hydromorphone,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Hydromorphone.,
+ORD00249,134993,2192-11-24,calcium carbonate,dexamethasone,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00249,134993,2192-11-24,calcium carbonate,prednisone,bioavailability,The bioavailability of Prednisone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00254,134993,2192-11-29,metoclopramide,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Metoclopramide.,Unknown
+ORD00259,134993,2192-12-04,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00261,134993,2192-12-06,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00266,138132,2145-07-07,digoxin,diltiazem,metabolism,The metabolism of Digoxin can be decreased when combined with Diltiazem.,
+ORD00266,138132,2145-07-07,digoxin,ziprasidone,metabolism,The metabolism of Digoxin can be decreased when combined with Ziprasidone.,
+ORD00266,138132,2145-07-07,diltiazem,ziprasidone,metabolism,The metabolism of Diltiazem can be decreased when combined with Ziprasidone.,
+ORD00266,138132,2145-07-07,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00266,138132,2145-07-07,prednisone,ziprasidone,metabolism,The metabolism of Prednisone can be decreased when combined with Ziprasidone.,Unknown
+ORD00266,138132,2145-07-07,warfarin,ziprasidone,metabolism,The metabolism of Warfarin can be decreased when combined with Ziprasidone.,Unknown
+ORD00266,138132,2145-07-07,warfarin,trazodone,anticoagulant activities,Trazodone may decrease the anticoagulant activities of Warfarin.,Minor
+ORD00269,138132,2145-07-10,ondansetron,propofol,risk or severity of adverse effects,Propofol may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00271,138132,2145-07-12,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00273,138132,2145-07-14,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00273,138132,2145-07-14,warfarin,trazodone,anticoagulant activities,Trazodone may decrease the anticoagulant activities of Warfarin.,Minor
+ORD00274,138132,2145-07-15,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00274,138132,2145-07-15,warfarin,trazodone,anticoagulant activities,Trazodone may decrease the anticoagulant activities of Warfarin.,Minor
+ORD00275,138132,2145-07-16,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00280,138503,2162-01-16,cilostazol,diazepam,serum concentration,The serum concentration of Cilostazol can be increased when it is combined with Diazepam.,
+ORD00280,138503,2162-01-16,cilostazol,omeprazole,serum concentration,The serum concentration of Cilostazol can be increased when it is combined with Omeprazole.,Major
+ORD00280,138503,2162-01-16,cilostazol,simvastatin,serum concentration,The serum concentration of Cilostazol can be increased when it is combined with Simvastatin.,
+ORD00280,138503,2162-01-16,clonidine,fosinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Fosinopril is combined with Clonidine.,
+ORD00280,138503,2162-01-16,diazepam,omeprazole,metabolism,The metabolism of Diazepam can be decreased when combined with Omeprazole.,Moderate
+ORD00280,138503,2162-01-16,diazepam,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Diazepam.,Unknown
+ORD00282,139932,2147-10-03,acetaminophen,phenytoin,serum concentration,The serum concentration of Acetaminophen can be decreased when it is combined with Phenytoin.,
+ORD00282,139932,2147-10-03,amlodipine,phenytoin,metabolism,The serum concentration of Phenytoin can be increased when it is combined with Amlodipine.,
+ORD00282,139932,2147-10-03,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00282,139932,2147-10-03,atorvastatin,midazolam,serum concentration,The serum concentration of Midazolam can be increased when it is combined with Atorvastatin.,
+ORD00282,139932,2147-10-03,atorvastatin,phenytoin,serum concentration,The serum concentration of Atorvastatin can be decreased when it is combined with Phenytoin.,
+ORD00282,139932,2147-10-03,furosemide,phenytoin,diuretic activities,Phenytoin may decrease the diuretic activities of Furosemide.,
+ORD00282,139932,2147-10-03,hydralazine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydralazine.,
+ORD00282,139932,2147-10-03,lisinopril,midazolam,serum concentration,The serum concentration of Midazolam can be increased when it is combined with Lisinopril.,
+ORD00282,139932,2147-10-03,midazolam,phenytoin,serum concentration,The serum concentration of Phenytoin can be increased when it is combined with Midazolam.,
+ORD00290,139932,2147-10-12,furosemide,metolazone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metolazone is combined with Furosemide.,
+ORD00293,139932,2147-10-15,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00293,139932,2147-10-15,atorvastatin,methimazole,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Methimazole is combined with Atorvastatin.,Unknown
+ORD00293,139932,2147-10-15,hydralazine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydralazine.,
+ORD00293,139932,2147-10-15,hydralazine,metolazone,hypotensive activities,The risk or severity of adverse effects can be increased when Metolazone is combined with Hydralazine.,
+ORD00293,139932,2147-10-15,lisinopril,metolazone,risk or severity of hypotension,The risk or severity of adverse effects can be increased when Metolazone is combined with Lisinopril.,
+ORD00302,139932,2147-10-24,furosemide,phenytoin,diuretic activities,Phenytoin may decrease the diuretic activities of Furosemide.,
+ORD00312,140372,2138-04-02,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00312,140372,2138-04-02,dronabinol,prochlorperazine,central nervous system depressant (CNS depressant) activities,Dronabinol may increase the central nervous system depressant (CNS depressant) activities of Prochlorperazine.,
+ORD00312,140372,2138-04-02,dronabinol,tramadol,central nervous system depressant (CNS depressant) activities,Dronabinol may increase the central nervous system depressant (CNS depressant) activities of Tramadol.,Major
+ORD00312,140372,2138-04-02,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00312,140372,2138-04-02,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00312,140372,2138-04-02,levofloxacin,metronidazole,QTc-prolonging activities,Metronidazole may increase the QTc-prolonging activities of Levofloxacin.,Minor
+ORD00312,140372,2138-04-02,levofloxacin,naproxen,neuroexcitatory activities,Naproxen may increase the neuroexcitatory activities of Levofloxacin.,Moderate
+ORD00312,140372,2138-04-02,metoprolol,tramadol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Tramadol.,
+ORD00312,140372,2138-04-02,prochlorperazine,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Prochlorperazine.,
+ORD00313,140372,2138-04-03,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00314,140372,2138-04-04,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00318,140372,2138-04-08,furosemide,ketorolac,therapeutic efficacy,Ketorolac may decrease the diuretic activities of Furosemide.,
+ORD00318,140372,2138-04-08,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00321,140372,2138-04-11,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00324,140372,2138-04-14,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00324,140372,2138-04-14,furosemide,tramadol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Tramadol is combined with Furosemide.,
+ORD00324,140372,2138-04-14,metoprolol,tramadol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Tramadol.,
+ORD00325,140372,2138-04-15,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00326,142345,2164-10-23,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00326,142345,2164-10-23,glipizide,metoprolol,hypoglycemic activities,Metoprolol may increase the hypoglycemic activities of Glipizide.,Moderate
+ORD00326,142345,2164-10-23,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00327,142345,2164-10-24,magnesium oxide,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,The risk or severity of adverse effects can be increased when Magnesium Sulfate is combined with Magnesium oxide.,Moderate
+ORD00329,142345,2164-10-26,levofloxacin,metronidazole,QTc-prolonging activities,Metronidazole may increase the QTc-prolonging activities of Levofloxacin.,Minor
+ORD00333,142345,2164-11-01,levofloxacin,metronidazole,QTc-prolonging activities,Metronidazole may increase the QTc-prolonging activities of Levofloxacin.,Minor
+ORD00341,142582,2150-08-11,nadolol,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Nadolol.,
+ORD00345,142633,2186-02-11,furosemide,labetalol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Labetalol is combined with Furosemide.,
+ORD00346,145024,2202-05-02,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00346,145024,2202-05-02,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00349,145203,2107-01-16,calcium gluconate,levofloxacin,absorption,Calcium gluconate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00349,145203,2107-01-16,levofloxacin,metronidazole,QTc-prolonging activities,Metronidazole may increase the QTc-prolonging activities of Levofloxacin.,Minor
+ORD00349,145203,2107-01-16,levofloxacin,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Levofloxacin.,
+ORD00349,145203,2107-01-16,metronidazole,pravastatin,serum concentration,The serum concentration of Pravastatin can be increased when it is combined with Metronidazole.,Moderate
+ORD00351,145203,2107-01-18,bisacodyl,sodium bicarbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Sodium bicarbonate.,Moderate
+ORD00351,145203,2107-01-18,calcium gluconate,digoxin,arrhythmogenic activities,Calcium gluconate may increase the arrhythmogenic activities of Digoxin.,Major
+ORD00351,145203,2107-01-18,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00353,145203,2107-01-20,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00355,145203,2107-01-22,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00359,145203,2107-01-26,furosemide,phenytoin,diuretic activities,Phenytoin may decrease the diuretic activities of Furosemide.,
+ORD00359,145203,2107-01-26,magnesium sulfate,phenytoin,therapeutic efficacy,The serum concentration of Phenytoin can be increased when it is combined with Magnesium Sulfate.,
+ORD00360,145203,2107-01-27,furosemide,phenytoin,diuretic activities,Phenytoin may decrease the diuretic activities of Furosemide.,
+ORD00367,145203,2107-02-03,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00370,145203,2107-02-06,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00370,145203,2107-02-06,captopril,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Captopril.,
+ORD00370,145203,2107-02-06,potassium chloride,spironolactone,risk or severity of hyperkalemia,,Major
+ORD00373,145203,2107-02-09,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00373,145203,2107-02-09,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00373,145203,2107-02-09,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00377,146893,2130-08-14,diphenhydramine,paroxetine,metabolism,The metabolism of Diphenhydramine can be decreased when combined with Paroxetine.,Moderate
+ORD00383,148562,2147-02-07,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00386,148562,2147-02-10,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00390,148562,2147-02-14,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00390,148562,2147-02-14,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00390,148562,2147-02-14,ranitidine,warfarin,serum concentration,The serum concentration of Warfarin can be increased when it is combined with Ranitidine.,Moderate
+ORD00394,149044,2107-05-12,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00394,149044,2107-05-12,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00394,149044,2107-05-12,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00394,149044,2107-05-12,atorvastatin,olanzapine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Olanzapine is combined with Atorvastatin.,
+ORD00394,149044,2107-05-12,levofloxacin,olanzapine,QTc-prolonging activities,Olanzapine may increase the QTc-prolonging activities of Levofloxacin.,Moderate
+ORD00394,149044,2107-05-12,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00395,149044,2107-05-13,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00396,149044,2107-05-14,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00400,149469,2202-09-17,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00400,149469,2202-09-17,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00400,149469,2202-09-17,mirtazapine,omeprazole,metabolism,The metabolism of Mirtazapine can be decreased when combined with Omeprazole.,Unknown
+ORD00403,149469,2202-09-20,levofloxacin,warfarin,anticoagulant activities,Levofloxacin may increase the anticoagulant activities of Warfarin.,Major
+ORD00407,149950,2176-07-14,atorvastatin,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.,Unknown
+ORD00411,151323,2166-02-12,atorvastatin,midazolam,serum concentration,The serum concentration of Midazolam can be increased when it is combined with Atorvastatin.,
+ORD00411,151323,2166-02-12,clopidogrel,midazolam,metabolism,The metabolism of Midazolam can be decreased when combined with Clopidogrel.,Unknown
+ORD00426,151798,2202-02-18,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00426,151798,2202-02-18,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00428,152032,2200-06-09,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00428,152032,2200-06-09,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00428,152032,2200-06-09,gabapentin,trazodone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Trazodone.,
+ORD00428,152032,2200-06-09,mirtazapine,omeprazole,metabolism,The metabolism of Mirtazapine can be decreased when combined with Omeprazole.,Unknown
+ORD00431,152032,2200-06-12,gabapentin,magnesium sulfate,serum concentration,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Gabapentin.,
+ORD00433,153826,2202-10-03,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00433,153826,2202-10-03,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00442,154156,2131-07-26,lisinopril,simvastatin,serum concentration,The serum concentration of Simvastatin can be increased when it is combined with Lisinopril.,Unknown
+ORD00445,155297,2201-11-17,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00445,155297,2201-11-17,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00445,155297,2201-11-17,gabapentin,paroxetine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Gabapentin is combined with Paroxetine.,
+ORD00448,157235,2132-12-05,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00448,157235,2132-12-05,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00448,157235,2132-12-05,atorvastatin,methimazole,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Methimazole is combined with Atorvastatin.,Unknown
+ORD00448,157235,2132-12-05,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00448,157235,2132-12-05,atorvastatin,mirtazapine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Mirtazapine is combined with Atorvastatin.,
+ORD00448,157235,2132-12-05,atorvastatin,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.,Unknown
+ORD00448,157235,2132-12-05,donepezil,metoprolol,bradycardic activities,Donepezil may increase the bradycardic activities of Metoprolol.,
+ORD00448,157235,2132-12-05,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00448,157235,2132-12-05,methimazole,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Methimazole.,Moderate
+ORD00449,157235,2132-12-06,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00449,157235,2132-12-06,methimazole,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Methimazole.,Moderate
+ORD00449,157235,2132-12-06,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00451,157466,2117-08-06,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00459,157466,2117-08-15,haloperidol,olanzapine,metabolism,Olanzapine may increase the QTc-prolonging activities of Haloperidol.,
+ORD00461,157466,2117-08-18,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD00462,157609,2144-12-24,ondansetron,propofol,risk or severity of adverse effects,Propofol may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00466,157609,2144-12-28,chlorpromazine,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Chlorpromazine.,
+ORD00468,157839,2147-02-23,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00468,157839,2147-02-23,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00475,159647,2146-07-21,gabapentin,tamsulosin,risk or severity of hypotension,Tamsulosin may increase the hypotensive activities of Gabapentin.,
+ORD00477,160445,2171-07-13,levofloxacin,magnesium sulfate,serum concentration,The serum concentration of Levofloxacin can be decreased when it is combined with Magnesium Sulfate.,Moderate
+ORD00477,160445,2171-07-13,levofloxacin,tacrolimus,QTc-prolonging activities,Levofloxacin may increase the QTc-prolonging activities of Tacrolimus.,Moderate
+ORD00497,160445,2171-08-02,furosemide,mycophenolate mofetil,therapeutic efficacy,Mycophenolate mofetil may decrease the diuretic activities of Furosemide.,
+ORD00505,160445,2171-08-10,metoclopramide,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Metoclopramide.,Unknown
+ORD00511,161765,2118-10-08,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00511,161765,2118-10-08,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00543,164869,2105-05-29,acetaminophen,fluconazole,metabolism,The metabolism of Acetaminophen can be decreased when combined with Fluconazole.,Unknown
+ORD00543,164869,2105-05-29,danazol,prednisone,fluid retaining activities,Prednisone may increase the fluid retaining activities of Danazol.,Unknown
+ORD00553,164869,2105-06-08,clarithromycin,isoniazid,metabolism,The metabolism of Clarithromycin can be decreased when combined with Isoniazid.,Unknown
+ORD00553,164869,2105-06-08,clarithromycin,pyrazinamide,metabolism,The metabolism of Pyrazinamide can be decreased when combined with Clarithromycin.,Unknown
+ORD00556,165393,2141-01-25,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00558,165436,2117-08-21,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00560,165436,2117-08-23,haloperidol,pantoprazole,metabolism,The metabolism of Haloperidol can be decreased when combined with Pantoprazole.,Unknown
+ORD00562,165520,2125-10-05,acetaminophen,azithromycin,metabolism,The metabolism of Acetaminophen can be decreased when combined with Azithromycin.,
+ORD00564,167021,2104-10-24,midazolam,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Midazolam.,
+ORD00564,167021,2104-10-24,ondansetron,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Ondansetron.,Moderate
+ORD00568,167181,2110-12-29,diphenhydramine,ondansetron,metabolism,Diphenhydramine may increase the QTc-prolonging activities of Ondansetron.,
+ORD00568,167181,2110-12-29,diphenhydramine,pantoprazole,metabolism,The metabolism of Diphenhydramine can be decreased when combined with Pantoprazole.,
+ORD00568,167181,2110-12-29,diphenhydramine,paroxetine,metabolism,The metabolism of Diphenhydramine can be decreased when combined with Paroxetine.,Moderate
+ORD00568,167181,2110-12-29,ondansetron,paroxetine,metabolism,The metabolism of Ondansetron can be decreased when combined with Paroxetine.,Major
+ORD00583,167754,2160-05-04,acetaminophen,azithromycin,metabolism,The metabolism of Acetaminophen can be decreased when combined with Azithromycin.,
+ORD00583,167754,2160-05-04,hydralazine,hydrochlorothiazide,hypotensive activities,The risk or severity of adverse effects can be increased when Hydrochlorothiazide is combined with Hydralazine.,
+ORD00583,167754,2160-05-04,hydralazine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydralazine.,
+ORD00583,167754,2160-05-04,hydrochlorothiazide,lisinopril,risk or severity of hypotension,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydrochlorothiazide.,
+ORD00583,167754,2160-05-04,hydrochlorothiazide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Hydrochlorothiazide.,Moderate
+ORD00585,167754,2160-05-06,calcium carbonate,prednisone,bioavailability,The bioavailability of Prednisone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00594,168074,2180-03-07,calcium carbonate,levofloxacin,absorption,Calcium Carbonate can cause a decrease in the absorption of Levofloxacin resulting in a reduced serum concentration and potentially a decrease in efficacy.,Moderate
+ORD00594,168074,2180-03-07,calcium carbonate,prednisone,bioavailability,The bioavailability of Prednisone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00594,168074,2180-03-07,levofloxacin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Levofloxacin.,Major
+ORD00597,168233,2107-01-29,atorvastatin,lansoprazole,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lansoprazole is combined with Atorvastatin.,Moderate
+ORD00597,168233,2107-01-29,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00597,168233,2107-01-29,lansoprazole,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Lansoprazole.,Unknown
+ORD00603,168233,2107-02-04,lansoprazole,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Lansoprazole.,Unknown
+ORD00603,168233,2107-02-04,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00608,168233,2107-02-09,atenolol,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Atenolol.,
+ORD00609,168674,2185-04-14,levofloxacin,magnesium sulfate,serum concentration,The serum concentration of Levofloxacin can be decreased when it is combined with Magnesium Sulfate.,Moderate
+ORD00610,168674,2185-04-15,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00610,168674,2185-04-15,levofloxacin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Levofloxacin.,Major
+ORD00624,169938,2107-01-05,atorvastatin,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Atorvastatin.,
+ORD00624,169938,2107-01-05,dexamethasone,donepezil,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Dexamethasone is combined with Donepezil.,Moderate
+ORD00626,169938,2107-01-07,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00627,169938,2107-01-08,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00627,169938,2107-01-08,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00627,169938,2107-01-08,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00628,169938,2107-01-09,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00629,169938,2107-01-10,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00629,169938,2107-01-10,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00629,169938,2107-01-10,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00632,170119,2167-02-12,atorvastatin,digoxin,serum concentration,The serum concentration of Digoxin can be increased when it is combined with Atorvastatin.,
+ORD00632,170119,2167-02-12,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00632,170119,2167-02-12,digoxin,metoprolol,bradycardic activities,Metoprolol may increase the bradycardic activities of Digoxin.,
+ORD00632,170119,2167-02-12,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00632,170119,2167-02-12,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00635,170119,2167-02-16,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00635,170119,2167-02-16,captopril,metoprolol,metabolism,The risk or severity of adverse effects can be increased when Metoprolol is combined with Captopril.,
+ORD00635,170119,2167-02-16,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00635,170119,2167-02-16,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00636,170119,2167-02-17,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00636,170119,2167-02-17,captopril,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Captopril.,
+ORD00639,170883,2192-04-17,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00639,170883,2192-04-17,atenolol,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Atenolol.,
+ORD00639,170883,2192-04-17,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00639,170883,2192-04-17,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00639,170883,2192-04-17,bisacodyl,calcium carbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Calcium Carbonate.,Moderate
+ORD00639,170883,2192-04-17,calcium carbonate,prochlorperazine,absorption,Calcium Carbonate can cause a decrease in the absorption of Prochlorperazine resulting in a reduced serum concentration and potentially a decrease in efficacy.,
+ORD00639,170883,2192-04-17,donepezil,metoprolol,bradycardic activities,Donepezil may increase the bradycardic activities of Metoprolol.,
+ORD00639,170883,2192-04-17,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00639,170883,2192-04-17,lisinopril,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Lisinopril.,
+ORD00641,170883,2192-04-19,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00646,170883,2192-04-24,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00653,170883,2192-05-01,diltiazem,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Diltiazem.,
+ORD00657,170883,2192-05-05,metoprolol,pantoprazole,metabolism,The metabolism of Metoprolol can be decreased when combined with Pantoprazole.,Unknown
+ORD00668,171628,2112-02-04,bisacodyl,magnesium oxide,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Magnesium oxide.,
+ORD00668,171628,2112-02-04,levetiracetam,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Levetiracetam.,
+ORD00671,171628,2112-02-08,diphenhydramine,midazolam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Midazolam is combined with Diphenhydramine.,Moderate
+ORD00675,171878,2102-08-29,diphenhydramine,ondansetron,metabolism,Diphenhydramine may increase the QTc-prolonging activities of Ondansetron.,
+ORD00676,171878,2102-08-30,haloperidol,ketorolac,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ketorolac is combined with Haloperidol.,
+ORD00676,171878,2102-08-30,haloperidol,omeprazole,metabolism,The metabolism of Haloperidol can be decreased when combined with Omeprazole.,Unknown
+ORD00677,171878,2102-08-31,furosemide,imipramine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Imipramine is combined with Furosemide.,
+ORD00677,171878,2102-08-31,hydralazine,imipramine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Imipramine is combined with Hydralazine.,
+ORD00677,171878,2102-08-31,hydralazine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydralazine.,
+ORD00678,171878,2102-09-01,furosemide,ketorolac,therapeutic efficacy,Ketorolac may decrease the diuretic activities of Furosemide.,
+ORD00680,171878,2102-09-04,hydralazine,lisinopril,hypotensive activities,The risk or severity of adverse effects can be increased when Lisinopril is combined with Hydralazine.,
+ORD00686,172082,2200-03-20,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00686,172082,2200-03-20,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00691,172082,2200-03-26,gabapentin,nystatin,therapeutic efficacy,The risk or severity of adverse effects can be increased when Nystatin is combined with Gabapentin.,Unknown
+ORD00697,172454,2104-09-27,bisacodyl,calcium carbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Calcium Carbonate.,Moderate
+ORD00700,173269,2199-01-13,clopidogrel,pantoprazole,serum concentration,The serum concentration of the active metabolites of Clopidogrel can be reduced when Clopidogrel is used in combination with Pantoprazole resulting in a loss in efficacy.,Moderate
+ORD00700,173269,2199-01-13,clopidogrel,warfarin,anticoagulant activities,Clopidogrel may increase the anticoagulant activities of Warfarin.,Major
+ORD00701,173269,2199-01-14,calcium gluconate,gabapentin,therapeutic efficacy,The therapeutic efficacy of Gabapentin can be decreased when used in combination with Calcium gluconate.,
+ORD00701,173269,2199-01-14,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00706,174245,2178-05-15,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00707,174739,2180-01-14,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00707,174739,2180-01-14,isosorbide dinitrate,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Isosorbide Dinitrate.,
+ORD00709,174739,2180-01-16,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00709,174739,2180-01-16,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00710,174739,2180-01-17,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD00710,174739,2180-01-17,atorvastatin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Atorvastatin.,Unknown
+ORD00714,174739,2180-01-21,digoxin,diltiazem,metabolism,The metabolism of Digoxin can be decreased when combined with Diltiazem.,
+ORD00714,174739,2180-01-21,digoxin,metoprolol,bradycardic activities,Metoprolol may increase the bradycardic activities of Digoxin.,
+ORD00714,174739,2180-01-21,diltiazem,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Diltiazem.,
+ORD00714,174739,2180-01-21,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00714,174739,2180-01-21,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00724,174863,2201-08-11,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00724,174863,2201-08-11,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00727,174997,2163-11-21,atorvastatin,digoxin,serum concentration,The serum concentration of Digoxin can be increased when it is combined with Atorvastatin.,
+ORD00738,175237,2155-12-16,cinacalcet,ranitidine,metabolism,The metabolism of Ranitidine can be decreased when combined with Cinacalcet.,Unknown
+ORD00738,175237,2155-12-16,glipizide,ranitidine,serum concentration,The serum concentration of Glipizide can be increased when it is combined with Ranitidine.,Moderate
+ORD00746,176016,2199-02-01,calcium chloride,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium Chloride.,
+ORD00746,176016,2199-02-01,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00761,177678,2120-08-25,atorvastatin,prednisone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prednisone is combined with Atorvastatin.,Unknown
+ORD00761,177678,2120-08-25,bisacodyl,calcium carbonate,therapeutic efficacy,The therapeutic efficacy of Bisacodyl can be decreased when used in combination with Calcium Carbonate.,Moderate
+ORD00761,177678,2120-08-25,calcium carbonate,dexamethasone,bioavailability,The bioavailability of Dexamethasone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00761,177678,2120-08-25,calcium carbonate,levetiracetam,therapeutic efficacy,,
+ORD00761,177678,2120-08-25,calcium carbonate,prednisone,bioavailability,The bioavailability of Prednisone can be decreased when combined with Calcium Carbonate.,Minor
+ORD00761,177678,2120-08-25,calcium gluconate,levetiracetam,therapeutic efficacy,,
+ORD00761,177678,2120-08-25,dexamethasone,metformin,therapeutic efficacy,The therapeutic efficacy of Metformin can be decreased when used in combination with Dexamethasone.,Moderate
+ORD00762,177678,2120-08-26,calcium gluconate,levetiracetam,therapeutic efficacy,,
+ORD00762,177678,2120-08-26,calcium gluconate,zonisamide,therapeutic efficacy,,
+ORD00762,177678,2120-08-26,levetiracetam,zonisamide,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Zonisamide is combined with Levetiracetam.,
+ORD00778,179418,2202-01-01,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00778,179418,2202-01-01,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00781,180391,2160-12-16,acetaminophen,azithromycin,metabolism,The metabolism of Acetaminophen can be decreased when combined with Azithromycin.,
+ORD00782,180391,2160-12-17,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00782,180391,2160-12-17,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00784,180391,2160-12-19,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00784,180391,2160-12-19,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00787,180546,2201-05-12,duloxetine,mirtazapine,risk or severity of adverse effects,Duloxetine may increase the serotonergic activities of Mirtazapine.,
+ORD00787,180546,2201-05-12,gabapentin,mirtazapine,central nervous system depressant (CNS depressant) activities,Gabapentin may increase the central nervous system depressant (CNS depressant) activities of Mirtazapine.,
+ORD00795,180685,2170-12-03,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00796,182664,2192-03-26,atorvastatin,glipizide,hypoglycemic activities,Atorvastatin may increase the hypoglycemic activities of Glipizide.,Unknown
+ORD00796,182664,2192-03-26,atorvastatin,lisinopril,risk or severity of adverse effects,The serum concentration of Atorvastatin can be increased when it is combined with Lisinopril.,
+ORD00796,182664,2192-03-26,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00796,182664,2192-03-26,lisinopril,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Lisinopril.,
+ORD00802,182664,2192-04-02,atenolol,metoprolol,hypotensive activities,The risk or severity of adverse effects can be increased when Metoprolol is combined with Atenolol.,
+ORD00802,182664,2192-04-02,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD00805,182839,2198-06-28,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00811,182839,2198-07-04,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00826,182879,2184-08-07,captopril,furosemide,hypotensive activities,The risk or severity of adverse effects can be increased when Furosemide is combined with Captopril.,
+ORD00826,182879,2184-08-07,captopril,potassium chloride,hyperkalemic activities,,Major
+ORD00830,183314,2189-09-08,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00832,183314,2189-09-10,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD00833,183314,2189-09-11,furosemide,hydromorphone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Furosemide.,
+ORD00834,183314,2189-09-12,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD00837,183314,2189-09-16,amlodipine,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Amlodipine.,
+ORD00837,183314,2189-09-16,doxazosin,metoprolol,orthostatic hypotensive activities,Metoprolol may increase the orthostatic hypotensive activities of Doxazosin.,
+ORD00840,186071,2173-11-27,acetaminophen,phenytoin,serum concentration,The serum concentration of Acetaminophen can be decreased when it is combined with Phenytoin.,
+ORD00840,186071,2173-11-27,felodipine,phenytoin,metabolism,The serum concentration of Phenytoin can be increased when it is combined with Felodipine.,
+ORD00840,186071,2173-11-27,ondansetron,phenytoin,metabolism,The metabolism of Ondansetron can be increased when combined with Phenytoin.,Moderate
+ORD00841,186071,2173-11-28,diphenhydramine,phenytoin,metabolism,The metabolism of Diphenhydramine can be increased when combined with Phenytoin.,Moderate
+ORD00842,186071,2173-11-29,felodipine,phenytoin,metabolism,The serum concentration of Phenytoin can be increased when it is combined with Felodipine.,
+ORD00842,186071,2173-11-29,felodipine,trazodone,risk or severity of hypotension,,
+ORD00843,186361,2144-07-11,famotidine,ondansetron,QTc-prolonging activities,Famotidine may increase the QTc-prolonging activities of Ondansetron.,Moderate
+ORD00853,186361,2144-07-21,dexamethasone,furosemide,hypokalemic activities,Dexamethasone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00864,186361,2144-08-01,diazepam,haloperidol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Haloperidol is combined with Diazepam.,
+ORD00869,186361,2144-08-11,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD00889,186361,2144-09-04,nortriptyline,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Nortriptyline.,
+ORD00889,186361,2144-09-04,ondansetron,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Ondansetron.,Moderate
+ORD00889,186361,2144-09-04,ondansetron,tizanidine,serum concentration,The serum concentration of Tizanidine can be increased when it is combined with Ondansetron.,Moderate
+ORD00894,186361,2144-09-11,nortriptyline,pregabalin,therapeutic efficacy,The therapeutic efficacy of Nortriptyline can be increased when used in combination with Pregabalin.,
+ORD00895,186361,2144-09-12,ondansetron,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Ondansetron.,Moderate
+ORD00895,186361,2144-09-12,ondansetron,tizanidine,serum concentration,The serum concentration of Tizanidine can be increased when it is combined with Ondansetron.,Moderate
+ORD00896,186361,2144-09-15,methadone,pregabalin,therapeutic efficacy,The therapeutic efficacy of Methadone can be increased when used in combination with Pregabalin.,
+ORD00897,186361,2144-09-17,diphenhydramine,methadone,metabolism,Diphenhydramine may increase the QTc-prolonging activities of Methadone.,Moderate
+ORD00897,186361,2144-09-17,diphenhydramine,pregabalin,therapeutic efficacy,The therapeutic efficacy of Diphenhydramine can be increased when used in combination with Pregabalin.,Moderate
+ORD00897,186361,2144-09-17,methadone,pregabalin,therapeutic efficacy,The therapeutic efficacy of Methadone can be increased when used in combination with Pregabalin.,
+ORD00907,186361,2144-09-29,methadone,pregabalin,therapeutic efficacy,The therapeutic efficacy of Methadone can be increased when used in combination with Pregabalin.,
+ORD00909,186361,2144-10-03,ondansetron,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Ondansetron.,Moderate
+ORD00927,186361,2144-10-28,diphenhydramine,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Diphenhydramine.,Moderate
+ORD00927,186361,2144-10-28,diphenhydramine,ondansetron,metabolism,Diphenhydramine may increase the QTc-prolonging activities of Ondansetron.,
+ORD00927,186361,2144-10-28,diphenhydramine,prochlorperazine,metabolism,The metabolism of Prochlorperazine can be decreased when combined with Diphenhydramine.,Moderate
+ORD00927,186361,2144-10-28,ondansetron,prochlorperazine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Prochlorperazine is combined with Ondansetron.,Moderate
+ORD00944,192189,2180-07-19,calcium chloride,gabapentin,therapeutic efficacy,The therapeutic efficacy of Gabapentin can be decreased when used in combination with Calcium Chloride.,Unknown
+ORD00945,192189,2180-07-20,hydrochlorothiazide,valsartan,hypotensive activities,Hydrochlorothiazide may increase the hypotensive activities of Valsartan.,
+ORD00946,193924,2115-05-12,levetiracetam,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Levetiracetam.,
+ORD00947,193924,2115-05-13,levetiracetam,propofol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Propofol is combined with Levetiracetam.,
+ORD00950,195911,2119-10-18,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00951,195911,2119-10-19,oxybutynin,potassium chloride,ulcerogenic activities,Oxybutynin may increase the ulcerogenic activities of Potassium Chloride.,Major
+ORD00957,195911,2119-10-26,haloperidol,olanzapine,metabolism,Olanzapine may increase the QTc-prolonging activities of Haloperidol.,
+ORD00963,195911,2119-11-01,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00963,195911,2119-11-01,levetiracetam,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Levetiracetam.,
+ORD00963,195911,2119-11-01,levetiracetam,ondansetron,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ondansetron is combined with Levetiracetam.,Unknown
+ORD00968,195911,2119-11-06,furosemide,spironolactone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Spironolactone is combined with Furosemide.,
+ORD00975,197611,2123-08-24,glipizide,glyburide,hypoglycemic activities,Glyburide may increase the hypoglycemic activities of Glipizide.,Unknown
+ORD00975,197611,2123-08-24,glipizide,prednisone,therapeutic efficacy,The therapeutic efficacy of Glipizide can be decreased when used in combination with Prednisone.,Moderate
+ORD00975,197611,2123-08-24,glyburide,prednisone,therapeutic efficacy,The therapeutic efficacy of Glyburide can be decreased when used in combination with Prednisone.,Moderate
+ORD00978,197611,2123-08-27,glyburide,pantoprazole,metabolism,The metabolism of Glyburide can be decreased when combined with Pantoprazole.,Unknown
+ORD00982,197611,2123-09-01,magnesium oxide,magnesium sulfate,risk or severity of hypotension and neuromuscular blockade,The risk or severity of adverse effects can be increased when Magnesium Sulfate is combined with Magnesium oxide.,Moderate
+ORD00987,197611,2123-09-08,magnesium sulfate,prochlorperazine,therapeutic efficacy,Magnesium Sulfate may increase the central nervous system depressant (CNS depressant) activities of Prochlorperazine.,
+ORD00998,198330,2112-05-31,indomethacin,pantoprazole,metabolism,The metabolism of Indomethacin can be decreased when combined with Pantoprazole.,Unknown
+ORD01002,198480,2169-05-07,atorvastatin,simvastatin,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Simvastatin is combined with Atorvastatin.,Moderate
+ORD01008,198503,2107-03-22,acetaminophen,azithromycin,metabolism,The metabolism of Acetaminophen can be decreased when combined with Azithromycin.,
+ORD01016,199207,2149-05-26,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD01016,199207,2149-05-26,furosemide,hydromorphone,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Hydromorphone is combined with Furosemide.,
+ORD01016,199207,2149-05-26,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD01016,199207,2149-05-26,hydromorphone,metoprolol,metabolism,The metabolism of Hydromorphone can be decreased when combined with Metoprolol.,
+ORD01019,199207,2149-05-29,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD01019,199207,2149-05-29,furosemide,prednisone,hypokalemic activities,Prednisone may increase the hypokalemic activities of Furosemide.,Moderate
+ORD01019,199207,2149-05-29,haloperidol,lorazepam,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Lorazepam is combined with Haloperidol.,
+ORD01019,199207,2149-05-29,haloperidol,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Haloperidol.,
+ORD01025,199395,2190-07-13,calcium gluconate,magnesium sulfate,therapeutic efficacy,The therapeutic efficacy of Magnesium Sulfate can be decreased when used in combination with Calcium gluconate.,
+ORD01027,199395,2190-07-15,diltiazem,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Diltiazem.,
+ORD01027,199395,2190-07-15,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD01032,199395,2190-07-20,acetaminophen,metoprolol,metabolism,The metabolism of Acetaminophen can be decreased when combined with Metoprolol.,
+ORD01032,199395,2190-07-20,atorvastatin,glipizide,hypoglycemic activities,Atorvastatin may increase the hypoglycemic activities of Glipizide.,Unknown
+ORD01032,199395,2190-07-20,atorvastatin,metoprolol,serum concentration,The serum concentration of Metoprolol can be increased when it is combined with Atorvastatin.,
+ORD01032,199395,2190-07-20,atorvastatin,ranitidine,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.,Unknown
+ORD01032,199395,2190-07-20,furosemide,metoprolol,risk or severity of adverse effects,The risk or severity of adverse effects can be increased when Metoprolol is combined with Furosemide.,
+ORD01032,199395,2190-07-20,glipizide,metoprolol,hypoglycemic activities,Metoprolol may increase the hypoglycemic activities of Glipizide.,Moderate
+ORD01032,199395,2190-07-20,glipizide,ranitidine,serum concentration,The serum concentration of Glipizide can be increased when it is combined with Ranitidine.,Moderate
+ORD01032,199395,2190-07-20,glipizide,warfarin,anticoagulant activities,Glipizide may increase the anticoagulant activities of Warfarin.,Moderate
+ORD01032,199395,2190-07-20,ranitidine,warfarin,serum concentration,The serum concentration of Warfarin can be increased when it is combined with Ranitidine.,Moderate
